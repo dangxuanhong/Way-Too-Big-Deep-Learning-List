@@ -58,25 +58,6 @@
 * SRGAN: Photo-Realistic Single Image Super-Resolution with GANs, 2016: https://arxiv.org/pdf/1609.04802v3.pdf
 * Image Super-Resolution with Fast Approximate Convolutional Sparse Coding, ICONIP, 2014: [Paper](http://brml.org/uploads/tx_sibibtex/281.pdf)
 
-#### Other Applications
-* Optical Flow (FlowNet) [[Paper]](http://arxiv.org/pdf/1504.06852)
-  * Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox, FlowNet: Learning Optical Flow with Convolutional Networks, arXiv:1504.06852.
-* Compression Artifacts Reduction [[Paper-arXiv15]](http://arxiv.org/pdf/1504.06993)
-  * Chao Dong, Yubin Deng, Chen Change Loy, Xiaoou Tang, Compression Artifacts Reduction by a Deep Convolutional Network, arXiv:1504.06993.
-* Blur Removal
-  * Christian J. Schuler, Michael Hirsch, Stefan Harmeling, Bernhard Schölkopf, Learning to Deblur, arXiv:1406.7444 [[Paper]](http://arxiv.org/pdf/1406.7444.pdf)
-  * Jian Sun, Wenfei Cao, Zongben Xu, Jean Ponce, Learning a Convolutional Neural Network for Non-uniform Motion Blur Removal, CVPR, 2015 [[Paper]](http://arxiv.org/pdf/1503.00593)
-* Image Deconvolution [[Web]](http://lxu.me/projects/dcnn/) [[Paper]](http://lxu.me/mypapers/dcnn_nips14.pdf)
-  * Li Xu, Jimmy SJ. Ren, Ce Liu, Jiaya Jia, Deep Convolutional Neural Network for Image Deconvolution, NIPS, 2014.
-* Deep Edge-Aware Filter [[Paper]](http://jmlr.org/proceedings/papers/v37/xub15.pdf)
-  * Li Xu, Jimmy SJ. Ren, Qiong Yan, Renjie Liao, Jiaya Jia, Deep Edge-Aware Filters, ICML, 2015.
-* Computing the Stereo Matching Cost with a Convolutional Neural Network [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)
-  * Jure Žbontar, Yann LeCun, Computing the Stereo Matching Cost with a Convolutional Neural Network, CVPR, 2015.
-* Colorful Image Colorization Richard Zhang, Phillip Isola, Alexei A. Efros, ECCV, 2016 [[Paper]](http://arxiv.org/pdf/1603.08511.pdf), [[Code]](https://github.com/richzhang/colorization)
-* Ryan Dahl, [[Blog]](http://tinyclouds.org/colorize/)
-* Feature Learning by Inpainting[[Paper]](https://arxiv.org/pdf/1604.07379v1.pdf)[[Code]](https://github.com/pathak22/context-encoder)
-  * Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei A. Efros, Context Encoders: Feature Learning by Inpainting, CVPR, 2016
-
 ### Edge Detection
 
 * Holistically-Nested Edge Detection: http://arxiv.org/pdf/1504.06375 | [Code](https://github.com/s9xie/hed)
@@ -221,6 +202,16 @@
 * DeepID3: Face Recognition with Very Deep Neural Networks: http://arxiv.org/abs/1502.00873
 * FaceNet: A Unified Embedding for Face Recognition and Clustering: http://arxiv.org/abs/1503.03832
 * Facial Landmark Detection with Tweaked CNNs: http://arxiv.org/abs/1511.04031, [Project](http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/)
+* Optical Flow (FlowNet): http://arxiv.org/pdf/1504.06852
+* Compression Artifacts Reduction: http://arxiv.org/pdf/1504.06993
+* Blur Removal: http://arxiv.org/pdf/1406.7444.pdf, http://arxiv.org/pdf/1503.00593
+* Image Deconvolution: [Project Page](http://lxu.me/projects/dcnn/), [NIPS 2014](http://lxu.me/mypapers/dcnn_nips14.pdf)
+* Deep Edge-Aware Filter: [ICML 2015](http://jmlr.org/proceedings/papers/v37/xub15.pdf)
+* Finding Stereo Matching Cost with a CNN [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)
+* Colorful Image Colorization: http://arxiv.org/pdf/1603.08511.pdf, [Code](https://github.com/richzhang/colorization)
+* Ryan Dahl, [[Blog]](http://tinyclouds.org/colorize/)
+* Feature Learning by Inpainting: https://arxiv.org/pdf/1604.07379v1.pdf, [Code](https://github.com/pathak22/context-encoder)
+
 
 ## Courses
 * Deep Vision
