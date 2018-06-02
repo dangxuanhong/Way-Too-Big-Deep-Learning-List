@@ -367,12 +367,13 @@
 * [Torchnet](https://github.com/torchnet/torchnet)
 * [Caffe](http://caffe.berkeleyvision.org/)
 * [Theano](http://deeplearning.net/software/theano/)
-* [Pylearn2](http://deeplearning.net/software/pylearn2/)], [[Blocks](https://github.com/mila-udem/blocks)]
+* [Pylearn2](http://deeplearning.net/software/pylearn2/)
+* [Blocks](https://github.com/mila-udem/blocks)
 * [Keras](http://keras.io/)
 * [Lasagne](https://github.com/Lasagne/Lasagne)
 * [MatConvNet: CNNs for MATLAB](http://www.vlfeat.org/matconvnet/)
 * [MXNet](http://mxnet.io/)
-* [Deepgaze](https://github.com/mpatacchiola/deepgaze)]
+* [Deepgaze](https://github.com/mpatacchiola/deepgaze)
 
 ### Applications
 * Adversarial Training
