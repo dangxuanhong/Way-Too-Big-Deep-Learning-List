@@ -16,8 +16,7 @@
 
 * PVANET (PVA faster-RCNN): https://arxiv.org/pdf/1608.08021 | [Code](https://github.com/sanghoon/pva-faster-rcnn)
 * OverFeat: Integrated Recognition, Localization & Detection using CNNs, ICLR 2014: http://arxiv.org/pdf/1312.6229.pdf
-* R-CNN: [http://arxiv.org/pdf/1311.2524] | [[Paper-CVPR14]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) 
-  * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014.
+* R-CNN: Rich feature hierarchies for object detection & semantic segmentation, CVPR, 2014. [http://arxiv.org/pdf/1311.2524] | [Paper-CVPR14](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) 
 * SPP, Microsoft Research [[Paper]](http://arxiv.org/pdf/1406.4729)
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, ECCV, 2014.
 * Fast R-CNN, Microsoft Research [[Paper]](http://arxiv.org/pdf/1504.08083)
