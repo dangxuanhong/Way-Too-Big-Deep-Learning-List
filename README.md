@@ -15,9 +15,7 @@
 ### Object Detection:
 
 * PVANET (PVA faster-RCNN): https://arxiv.org/pdf/1608.08021 | [Code](https://github.com/sanghoon/pva-faster-rcnn)
-  * Kye-Hyeon Kim, Sanghoon Hong, Byungseok Roh, Yeongjae Cheon, Minje Park, PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection, arXiv:1608.08021
-* OverFeat, NYU [[Paper]](http://arxiv.org/pdf/1312.6229.pdf)
-  * OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks, ICLR, 2014.
+* OverFeat: Integrated Recognition, Localization & Detection using CNNs, ICLR 2014: http://arxiv.org/pdf/1312.6229.pdf
 * R-CNN, UC Berkeley [[Paper-CVPR14]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Paper-arXiv14]](http://arxiv.org/pdf/1311.2524)
   * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014.
 * SPP, Microsoft Research [[Paper]](http://arxiv.org/pdf/1406.4729)
