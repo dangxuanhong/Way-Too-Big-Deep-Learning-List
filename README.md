@@ -170,29 +170,24 @@
 * Describing Multimedia Content using Attention-based Encoder-Decoder Networks: https://arxiv.org/pdf/1612.06950.pdf
 * Temporal Tessellation for Video Annotation and Summarization: https://arxiv.org/pdf/1612.06950.pdf
 
-#### Question Answering
+#### Image (IQA) and Visual (VQA) Question Answering
 
-* Visual Questio Answering: [Web](http://www.visualqa.org/), http://arxiv.org/pdf/1505.00468
-* VQA: Visual Question Answering, CVPR, 2015 SUNw:Scene Understanding workshop.
-* MPI / Berkeley [[Web]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/visual-turing-challenge/), http://arxiv.org/pdf/1505.01121
-* Ask Your Neurons: A Neural-based Approach to Answering Questions about Images, arXiv:1505.01121.
-* Toronto [[Paper]](http://arxiv.org/pdf/1505.02074) [[Dataset]](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)
-* Image Question Answering: A Visual Semantic Embedding Model and a New Dataset, arXiv:1505.02074 / ICML 2015 deep learning workshop.
-* Baidu / UCLA [[Paper]](http://arxiv.org/pdf/1505.05612) [[Dataset]]()
-* Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering, arXiv:1505.05612.
-* POSTECH: http://arxiv.org/pdf/1511.05756.pdf, [Project](http://cvlab.postech.ac.kr/research/dppnet/)]
-* Image Question Answering using CNNs with Dynamic Parameter Prediction, arXiv:1511.05765
-* CMU / Microsoft Research: http://arxiv.org/pdf/1511.02274v2.pdf
-* Stacked Attention Networks for Image Question Answering. arXiv:1511.02274.
+* Visual Question Answering: [Web](http://www.visualqa.org/), http://arxiv.org/pdf/1505.00468, [MPI / Berkeley](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/visual-turing-challenge/), http://arxiv.org/pdf/1505.01121
+* Ask Your Neurons: A Neural-based Approach to IQA http://arxiv.org/pdf/1505.01121
+* Models & Data for IQA: http://arxiv.org/pdf/1505.02074, [Dataset](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)
+* Are You Talking to a Machine? Multilingual Image Question Answering: http://arxiv.org/pdf/1505.05612
+* DPPnet: http://arxiv.org/pdf/1511.05756.pdf, [Project](http://cvlab.postech.ac.kr/research/dppnet/)]
+* Image Question Answering using CNNs with Dynamic Parameter Prediction, http://arxiv.org/pdf/1511.05765
+* CMU / Microsoft Research: http://arxiv.org/pdf/1511.02274v2.pdfhttp://arxiv.org/pdf/
+* Stacked Attention Networks for Image Question Answering. http://arxiv.org/pdf/1511.02274.
 * MetaMind: http://arxiv.org/pdf/1603.01417v1.pdf
-* Dynamic Memory Networks for Visual and Textual Question Answering arXiv:1603.01417 (2016).
+* Dynamic Memory Networks for Visual and Textual Question Answering: http://arxiv.org/pdf/1603.01417
 * SNU + NAVER: http://arxiv.org/abs/1606.01455
-* Multimodal Residual Learning for Visual QA, arXiv:1606:01455
-* UC Berkeley + Sony [[Paper](https://arxiv.org/pdf/1606.01847)]
-* Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding, arXiv:1606.01847
-* Postech: http://arxiv.org/pdf/1606.03647.pdf
-* Training Recurrent Answering Units with Joint Loss Minimization for VQA: http://arxiv.org/abs/1610.04325
-* Hadamard Product for Low-rank Bilinear Pooling, arXiv:1610.04325.
+* Multimodal Residual Learning for Visual QA: http://arxiv.org/pdf/1606:01455
+* Multimodal Compact Bilinear Pooling for VQA & Visual Grounding: https://arxiv.org/pdf/1606.01847
+* Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding, http://arxiv.org/pdf/1606.01847
+* Training Recurrent Answering Units with Joint Loss Minimization for VQA: http://arxiv.org/pdf/1606.03647.pdf
+* Hadamard Product for Low-rank Bilinear Pooling: http://arxiv.org/pdf/1610.04325
 
 ### Image Generation: Convolutional / Recurrent Networks
 
