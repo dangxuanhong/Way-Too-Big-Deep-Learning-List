@@ -8,7 +8,7 @@
 * PReLu/Weight Initialization (MSFT) [[Paper]](http://arxiv.org/pdf/1502.01852)
 * Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, [arXiv:1502.01852](arXiv:1502.01852)
 * Batch Normalization [[Paper]](http://arxiv.org/pdf/1502.03167)
-* Batch Normalization: Reducing Internal Covariate Shift: [arXiv:1502.03167].
+* Batch Normalization: Reducing Internal Covariate Shift [(arXiv:1502.03167)]
 * GoogLeNet [[Paper]](http://arxiv.org/pdf/1409.4842)
   * Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, CVPR, 2015.
 * VGG-Net [[Web]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) [[Paper]](http://arxiv.org/pdf/1409.1556)
