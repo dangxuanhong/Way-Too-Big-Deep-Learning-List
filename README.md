@@ -109,12 +109,12 @@
 * Pusing the Boundaries of Boundary Detection Using deep Learning: http://arxiv.org/pdf/1511.07386v2.pdf
 * Weakly supervised graph based semantic segmentation by learning communities of image-parts: [ICCV 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Pourian_Weakly_Supervised_Graph_ICCV_2015_paper.pdf)
 
-### Visual Attention and Saliency
+### [Visual Attention and Saliency](http://www.scholarpedia.org/article/Visual_salience)
 
 * Mr-CNN: Predicting Eye Fixations using CNNs: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Predicting_Eye_Fixations_2015_CVPR_paper.pdf)
-* Sequential Search for Landmarks [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Singh_Learning_a_Sequential_2015_CVPR_paper.pdf)
+* Sequential Search for Landmarks: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Singh_Learning_a_Sequential_2015_CVPR_paper.pdf)
 * Multiple Object Recognition with Visual Attention: http://arxiv.org/pdf/1412.7755.pdf
-* Recurrent Models of Visual Attention [NIPS 2014](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
+* Recurrent Models of Visual Attention: [NIPS 2014](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
 
 ### Object Recognition
 * Weakly-supervised learning with convolutional neural networks [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Oquab_Is_Object_Localization_2015_CVPR_paper.pdf)
