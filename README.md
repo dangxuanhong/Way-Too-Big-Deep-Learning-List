@@ -1,62 +1,19 @@
-# Awesome Deep Vision [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Brian Must-Read Papers: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
-Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
+[![Gitter chat at https://gitter.im/kjw0612/awesome-deep-vision](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-deep-vision?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-We are looking for a maintainer! Let me know (jiwon@alum.mit.edu) if interested.
 
-## Contributing
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) to add papers.
+### ImageNet:
 
-[![Join the chat at https://gitter.im/kjw0612/awesome-deep-vision](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-deep-vision?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+* Deep Residual Learning (MSFT) [[Paper](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slides](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
 
-## Sharing
-+ [Share on Twitter](http://twitter.com/home?status=http://jiwonkim.org/awesome-deep-vision%0ADeep Learning Resources for Computer Vision)
-+ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?u=https://jiwonkim.org/awesome-deep-vision)
-+ [Share on Google Plus](http://plus.google.com/share?url=https://jiwonkim.org/awesome-deep-vision)
-+ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://jiwonkim.org/awesome-deep-vision&title=Awesome%20Deep%20Vision&summary=&source=)
-
-## Table of Contents
-- [Papers](#papers)
-  - [ImageNet Classification](#imagenet-classification)
-  - [Object Detection](#object-detection)
-  - [Object Tracking](#object-tracking)
-  - [Low-Level Vision](#low-level-vision)
-    - [Super-Resolution](#super-resolution)
-    - [Other Applications](#other-applications)
-  - [Edge Detection](#edge-detection)
-  - [Semantic Segmentation](#semantic-segmentation)
-  - [Visual Attention and Saliency](#visual-attention-and-saliency)
-  - [Object Recognition](#object-recognition)
-  - [Human Pose Estimation](#human-pose-estimation)
-  - [Understanding CNN](#understanding-cnn)
-  - [Image and Language](#image-and-language)
-    - [Image Captioning](#image-captioning)
-    - [Video Captioning](#video-captioning)
-    - [Question Answering](#question-answering)
-  - [Image Generation](#image-generation)
-  - [Other Topics](#other-topics)
-- [Courses](#courses)
-- [Books](#books)
-- [Videos](#videos)
-- [Software](#software)
-  - [Framework](#framework)
-  - [Applications](#applications)
-- [Tutorials](#tutorials)
-- [Blogs](#blogs)
-
-## Papers
-
-### ImageNet Classification
-![classification](https://cloud.githubusercontent.com/assets/5226447/8451949/327b9566-2022-11e5-8b34-53b4a64c13ad.PNG)
-(from Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.)
-* Microsoft (Deep Residual Learning) [[Paper](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slide](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
-  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition, arXiv:1512.03385.
-* Microsoft (PReLu/Weight Initialization) [[Paper]](http://arxiv.org/pdf/1502.01852)
-  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, arXiv:1502.01852.
+* Deep Residual Learning for Image Recognition, arXiv:1512.03385.
+* PReLu/Weight Initialization (MSFT) [[Paper]](http://arxiv.org/pdf/1502.01852)
+* Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, [arXiv:1502.01852](arXiv:1502.01852)
 * Batch Normalization [[Paper]](http://arxiv.org/pdf/1502.03167)
-  * Sergey Ioffe, Christian Szegedy, Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, arXiv:1502.03167.
+* Batch Normalization: Reducing Internal Covariate Shift: [arXiv:1502.03167].
 * GoogLeNet [[Paper]](http://arxiv.org/pdf/1409.4842)
   * Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, CVPR, 2015.
 * VGG-Net [[Web]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) [[Paper]](http://arxiv.org/pdf/1409.1556)
@@ -64,7 +21,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * AlexNet [[Paper]](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
   * Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
 
-### Object Detection
+### Object Detection:
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
 (from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)
 
