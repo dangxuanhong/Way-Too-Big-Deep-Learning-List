@@ -18,10 +18,8 @@
 * OverFeat: Integrated Recognition, Localization & Detection using CNNs, ICLR 2014: http://arxiv.org/pdf/1312.6229.pdf
 * R-CNN: Rich feature hierarchies for object detection & semantic segmentation, CVPR, 2014. http://arxiv.org/pdf/1311.2524 | [Paper-CVPR14](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) 
 * SPP (Spatial Pyramid Pooling in DCNNs, ECCV, 2014: http://arxiv.org/pdf/1406.4729
-* Fast R-CNN, Microsoft Research [[Paper]](http://arxiv.org/pdf/1504.08083)
-  * Ross Girshick, Fast R-CNN, arXiv:1504.08083.
-* Faster R-CNN, Microsoft Research [[Paper]](http://arxiv.org/pdf/1506.01497)
-  * Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.
+* Fast R-CNN: http://arxiv.org/pdf/1504.08083
+* Faster R-CNN: Real-Time Object Detection with Region Proposal Networks: http://arxiv.org/pdf/1506.01497 
 * R-CNN minus R, Oxford [[Paper]](http://arxiv.org/pdf/1506.06981)
   * Karel Lenc, Andrea Vedaldi, R-CNN minus R, arXiv:1506.06981.
 * End-to-end people detection in crowded scenes [[Paper]](http://arxiv.org/abs/1506.04878)
