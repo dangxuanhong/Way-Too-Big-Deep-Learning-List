@@ -23,19 +23,12 @@
 * R-CNN minus R: http://arxiv.org/pdf/1506.06981
 * E2E people detection in crowded scenes: http://arxiv.org/abs/1506.04878
 * You Only Look Once: Real-Time Object Detection: http://arxiv.org/abs/1506.02640 | https://arxiv.org/abs/1612.08242 | [C Code](https://github.com/pjreddie/darknet) | [Tensorflow Code](https://github.com/thtrieu/darkflow)
-  * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
-  * Joseph Redmon, Ali Farhadi (Version 2)
-* Inside-Outside Net [[Paper]](http://arxiv.org/abs/1512.04143)
-  * Sean Bell, C. Lawrence Zitnick, Kavita Bala, Ross Girshick, Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks
-* Deep Residual Network (Current State-of-the-Art) [[Paper]](http://arxiv.org/abs/1512.03385)
-  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition
-* Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning [[Paper](http://arxiv.org/pdf/1503.00949.pdf)]
-* R-FCN [[Paper]](https://arxiv.org/abs/1605.06409) [[Code]](https://github.com/daijifeng001/R-FCN)
-  * Jifeng Dai, Yi Li, Kaiming He, Jian Sun, R-FCN: Object Detection via Region-based Fully Convolutional Networks
-* SSD [[Paper]](https://arxiv.org/pdf/1512.02325v2.pdf) [[Code]](https://github.com/weiliu89/caffe/tree/ssd)
-  * Wei Liu1, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg, SSD: Single Shot MultiBox Detector, arXiv:1512.02325
-* Speed/accuracy trade-offs for modern convolutional object detectors [[Paper]](https://arxiv.org/pdf/1611.10012v1.pdf)
-  * Jonathan Huang, Vivek Rathod, Chen Sun, Menglong Zhu, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Kevin Murphy, Google Research, arXiv:1611.10012
+* Inside-Outside Net: Detecting Objects with Skip Pooling and RNNs: http://arxiv.org/abs/1512.04143
+* Deep Residual Networks: http://arxiv.org/abs/1512.03385
+* Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning: http://arxiv.org/pdf/1503.00949.pdf
+* R-FCN: Object Detection via Region-based FCNs: https://arxiv.org/abs/1605.06409 | [Code](https://github.com/daijifeng001/R-FCN)
+* SSD: Single Shot MultiBox Detector: https://arxiv.org/pdf/1512.02325v2.pdf | [Code](https://github.com/weiliu89/caffe/tree/ssd)
+* Speed/accuracy trade-offs for modern convolutional object detectors: https://arxiv.org/pdf/1611.10012v1.pdf
 
 ### Video Classification
 * Nicolas Ballas, Li Yao, Pal Chris, Aaron Courville, "Delving Deeper into Convolutional Networks for Learning Video Representations", ICLR 2016. [[Paper](http://arxiv.org/pdf/1511.06432v4.pdf)]
