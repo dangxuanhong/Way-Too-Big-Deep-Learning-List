@@ -128,62 +128,40 @@
 * Flowing convnets for human pose estimation in videos: https://arxiv.org/pdf/1506.02897.pdf
 * Joint training of a CNN & graphical model for human pose estimation: https://arxiv.org/pdf/1701.00295.pdf
 
-### Understanding CNN
+### Image Understanding
 
-* Understanding image representations by measuring equivariance and equivalence: [CVPR 2015]]http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf)
+* Understanding image representations by measuring equivariance and equivalence: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf)
 * DNNs are Easily Fooled:High Confidence Predictions for Unrecognizable Images: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.pdf)
 * Understanding Deep Image Representations by Inverting Them: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.pdf)
 * Object Detectors in Deep Scene CNNs: http://arxiv.org/abs/1412.6856
 * Inverting Visual Representations with CNNs: http://arxiv.org/abs/1506.02753
 * Visualizing and Understanding CNNs: [ECCV 2014](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
+### Image Captioning
 
-### Image and Language
-
-#### Image Captioning
-![image_captioning](https://cloud.githubusercontent.com/assets/5226447/8452051/e8f81030-2022-11e5-85db-c68e7d8251ce.PNG)
-(from Andrej Karpathy, Li Fei-Fei, Deep Visual-Semantic Alignments for Generating Image Description, CVPR, 2015.)
-
-* UCLA / Baidu [[Paper]](http://arxiv.org/pdf/1410.1090)
-  * Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Alan L. Yuille, Explain Images with Multimodal Recurrent Neural Networks, arXiv:1410.1090.
-* Toronto [[Paper]](http://arxiv.org/pdf/1411.2539)
-  * Ryan Kiros, Ruslan Salakhutdinov, Richard S. Zemel, Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models, arXiv:1411.2539.
-* Berkeley [[Paper]](http://arxiv.org/pdf/1411.4389)
-  * Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell, Long-term Recurrent Convolutional Networks for Visual Recognition and Description, arXiv:1411.4389.
-* Google [[Paper]](http://arxiv.org/pdf/1411.4555)
-  * Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan, Show and Tell: A Neural Image Caption Generator, arXiv:1411.4555.
+* Explain Images with Multimodal RNNs: (UCLA/Baidu)[http://arxiv.org/pdf/1410.1090], [Toronto](http://arxiv.org/pdf/1411.2539)
+* Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models: http://arxiv.org/pdf/1411.4389
+* Show and Tell: A Neural Image Caption Generator: http://arxiv.org/pdf/1411.4555
 * Stanford [[Web]](http://cs.stanford.edu/people/karpathy/deepimagesent/) [[Paper]](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
-  * Andrej Karpathy, Li Fei-Fei, Deep Visual-Semantic Alignments for Generating Image Description, CVPR, 2015.
-* UML / UT [[Paper]](http://arxiv.org/pdf/1412.4729)
-  * Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Translating Videos to Natural Language Using Deep Recurrent Neural Networks, NAACL-HLT, 2015.
-* CMU / Microsoft [[Paper-arXiv]](http://arxiv.org/pdf/1411.5654) [[Paper-CVPR]](http://www.cs.cmu.edu/~xinleic/papers/cvpr15_rnn.pdf)
-  * Xinlei Chen, C. Lawrence Zitnick, Learning a Recurrent Visual Representation for Image Caption Generation, arXiv:1411.5654.
-  * Xinlei Chen, C. Lawrence Zitnick, Mind’s Eye: A Recurrent Visual Representation for Image Caption Generation, CVPR 2015
-* Microsoft [[Paper]](http://arxiv.org/pdf/1411.4952)
-  * Hao Fang, Saurabh Gupta, Forrest Iandola, Rupesh Srivastava, Li Deng, Piotr Dollár, Jianfeng Gao, Xiaodong He, Margaret Mitchell, John C. Platt, C. Lawrence Zitnick, Geoffrey Zweig, From Captions to Visual Concepts and Back, CVPR, 2015.
-* Univ. Montreal / Univ. Toronto [[Web](http://kelvinxu.github.io/projects/capgen.html)] [[Paper](http://www.cs.toronto.edu/~zemel/documents/captionAttn.pdf)]
-  * Kelvin Xu, Jimmy Lei Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard S. Zemel, Yoshua Bengio, Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention, arXiv:1502.03044 / ICML 2015
-* Idiap / EPFL / Facebook [[Paper](http://arxiv.org/pdf/1502.03671)]
-  * Remi Lebret, Pedro O. Pinheiro, Ronan Collobert, Phrase-based Image Captioning, arXiv:1502.03671 / ICML 2015
-* UCLA / Baidu [[Paper](http://arxiv.org/pdf/1504.06692)]
-  * Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang, Alan L. Yuille, Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images, arXiv:1504.06692
-* MS + Berkeley
-  * Jacob Devlin, Saurabh Gupta, Ross Girshick, Margaret Mitchell, C. Lawrence Zitnick, Exploring Nearest Neighbor Approaches for Image Captioning, arXiv:1505.04467 [[Paper](http://arxiv.org/pdf/1505.04467.pdf)]
-  * Jacob Devlin, Hao Cheng, Hao Fang, Saurabh Gupta, Li Deng, Xiaodong He, Geoffrey Zweig, Margaret Mitchell, Language Models for Image Captioning: The Quirks and What Works, arXiv:1505.01809 [[Paper](http://arxiv.org/pdf/1505.01809.pdf)]
-* Adelaide [[Paper](http://arxiv.org/pdf/1506.01144.pdf)]
-  * Qi Wu, Chunhua Shen, Anton van den Hengel, Lingqiao Liu, Anthony Dick, Image Captioning with an Intermediate Attributes Layer, arXiv:1506.01144
-* Tilburg [[Paper](http://arxiv.org/pdf/1506.03694.pdf)]
-  * Grzegorz Chrupala, Akos Kadar, Afra Alishahi, Learning language through pictures, arXiv:1506.03694
-* Univ. Montreal [[Paper](http://arxiv.org/pdf/1507.01053.pdf)]
-  * Kyunghyun Cho, Aaron Courville, Yoshua Bengio, Describing Multimedia Content using Attention-based Encoder-Decoder Networks, arXiv:1507.01053
-* Cornell [[Paper](http://arxiv.org/pdf/1508.02091.pdf)]
-  * Jack Hessel, Nicolas Savva, Michael J. Wilber, Image Representations and New Domains in Neural Image Captioning, arXiv:1508.02091
-* MS + City Univ. of HongKong [[Paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yao_Learning_Query_and_ICCV_2015_paper.pdf)]
-  * Ting Yao, Tao Mei, and Chong-Wah Ngo, "Learning Query and Image Similarities
-    with Ranking Canonical Correlation Analysis", ICCV, 2015
+* Deep Visual-Semantic Alignments for Generating Image Descriptions: http://arxiv.org/pdf/1412.4729
+* Translating Videos to Natural Language Using Deep RNNs: http://arxiv.org/pdf/1411.5654, [CVPR 2015](http://www.cs.cmu.edu/~xinleic/papers/cvpr15_rnn.pdf)
+* Mind’s Eye: A Recurrent Visual Representation for Image Caption Generation: 
+* CapGen: From Captions to Visual Concepts and Back: http://arxiv.org/pdf/1411.4952, [Web](http://kelvinxu.github.io/projects/capgen.html), [Paper](http://www.cs.toronto.edu/~zemel/documents/captionAttn.pdf)
+* Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention: http://arxiv.org/pdf/1502.03671
+* Phrase-based Image Captioning: http://arxiv.org/pdf/1504.06692
+* Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images: https://arxiv.org/pdf/1504.06692.pdf
+* Exploring Nearest Neighbor Approaches for Image Captioning: http://arxiv.org/pdf/1505.04467.pdf
+* Language Models for Image Captioning: The Quirks and What Works: http://arxiv.org/pdf/1505.01809.pdf
+* Adelaide: Image Captioning with an Intermediate Attributes Layer: http://arxiv.org/pdf/1506.01144.pdf
+* Image Captioning with an Intermediate Attributes Layer, arXiv:1506.01144
+* Tilburg: http://arxiv.org/pdf/1506.03694.pdf
+* Learning language through pictures: http://arxiv.org/pdf/1507.01053.pdf
+* Describing Multimedia Content using Attention-based Encoder-Decoder Networks: http://arxiv.org/pdf/1508.02091.pdf
+* Image Representations and New Domains in Neural Image Captioning: [ICCV 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yao_Learning_Query_and_ICCV_2015_paper.pdf)]
 
 #### Video Captioning
-* Berkeley [[Web]](http://jeffdonahue.com/lrcn/) [[Paper]](http://arxiv.org/pdf/1411.4389.pdf)
+
+* Long-term Recurrent CNNs for Visual Recognition and Description: [Web], (http://jeffdonahue.com/lrcn), http://arxiv.org/pdf/1411.4389.pdf
   * Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell, Long-term Recurrent Convolutional Networks for Visual Recognition and Description, CVPR, 2015.
 * UT / UML / Berkeley [[Paper]](http://arxiv.org/pdf/1412.4729)
   * Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Translating Videos to Natural Language Using Deep Recurrent Neural Networks, arXiv:1412.4729.
