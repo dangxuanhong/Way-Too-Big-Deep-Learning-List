@@ -37,6 +37,14 @@
 * Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding: https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size: http://arxiv.org/pdf/1602.07360
 
+### Unsupervised Learning / Deep Generative Models:
+
+* Building high-level features using large scale unsupervised learning: http://arxiv.org/pdf/1112.6209.pdf
+* VAEs: Auto-encoding variational bayes: http://arxiv.org/pdf/1312.6114
+* GANs: Generative adversarial nets: http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
+* DCGANs: Unsupervised representation learning with deep convolutional generative adversarial networks: http://arxiv.org/pdf/1511.06434
+* PixelRNN: Pixel recurrent neural networks: http://arxiv.org/pdf/1601.06759
+* PixclCNN: Conditional image generation with PixelCNN decoders: https://arxiv.org/pdf/1606.05328
 
 ### Object Detection:
 
