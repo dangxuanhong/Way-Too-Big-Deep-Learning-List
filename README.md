@@ -1,14 +1,9 @@
-# Brian Must-Read Papers: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
+# Brian's Deep Learning reading list:
 A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
-
-[![Gitter chat at https://gitter.im/kjw0612/awesome-deep-vision](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-deep-vision?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 
 ### ImageNet:
 
-* Deep Residual Learning (MSFT) [[Paper](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slides](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
-
+* Deep Residual Learning (MSFT, 2015) [[http://arxiv.org/pdf/1512.03385v1.pdf](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slides](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
 * Deep Residual Learning for Image Recognition, arXiv:1512.03385.
 * PReLu/Weight Initialization (MSFT) [[Paper]](http://arxiv.org/pdf/1502.01852)
 * Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, [arXiv:1502.01852](arXiv:1502.01852)
