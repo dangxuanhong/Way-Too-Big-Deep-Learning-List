@@ -7,7 +7,7 @@
 * VGG-Net: [ICLR 2015](http://www.robots.ox.ac.uk/~vgg/research/very_deep/), http://arxiv.org/pdf/1409.1556
 * Deep Residual Learning: http://arxiv.org/pdf/1512.03385v1.pdf | [2015](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
 * Deep Residual Learning for Image Recognition: http://arxiv.org/pdf/1512.03385
-* PReLu/Weight Initialization: [http://arxiv.org/pdf/1502.01852]
+* PReLu/Weight Initialization: http://arxiv.org/pdf/1502.01852
 * Rectifiers: Surpassing Human-Level Performance on ImageNet Classification: http://arxiv.org/pdf/1502.01852
 * AlexNet: [NIPS 2012](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
 
