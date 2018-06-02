@@ -85,14 +85,14 @@
 
 ### Semantic Segmentation
 
-* SEC (Seed, Expand & Constrain): Three Principles for Weakly-Supervised Image Segmentation: [[ECCV, 2016]](http://pub.ist.ac.at/~akolesnikov/files/ECCV2016/main.pdf) [[Code]](https://github.com/kolesman/SEC)
-* Adelaide: Efficient piecewise training of deep structured models for semantic segmentation: http://arxiv.org/pdf/1504.01013
+* SEC (Seed, Expand & Constrain): Three Principles for Weakly-Supervised Image Segmentation: [ECCV, 2016](http://pub.ist.ac.at/~akolesnikov/files/ECCV2016/main.pdf) | [Code](https://github.com/kolesman/SEC)
+* Adelaide: Piecewise training of deep structured models: http://arxiv.org/pdf/1504.01013
 * Deep Parsing Network (DPN): http://arxiv.org/pdf/1509.02634
-* CentraleSuperBoundaries, INRIA: http://arxiv.org/pdf/1511.07386
-* BoxSup: Exploiting Bounding Boxes to Supervise CNNs for Semantic Segmentation: http://arxiv.org/pdf/1503.01640
-* POSTECHL Learning Deconvolution Network for Semantic Segmentation: http://arxiv.org/pdf/1505.04366
+* CentraleSuperBoundaries: http://arxiv.org/pdf/1511.07386
+* BoxSup: Exploiting Bounding Boxes to Supervise CNNs: http://arxiv.org/pdf/1503.01640
+* POSTECHL: Learning Deconvolution Network for Semantic Segmentation: http://arxiv.org/pdf/1505.04366
 * Decoupled DNNs for Semi-supervised Semantic Segmentation: http://arxiv.org/pdf/1506.04924
-  * Seunghoon Hong,Junhyuk Oh,	Bohyung Han, and	Honglak Lee, Learning Transferrable Knowledge for Semantic Segmentation with Deep Convolutional Neural Network, arXiv:1512.07928 [[Paper](http://arxiv.org/pdf/1512.07928.pdf)] [[Project Page](http://cvlab.postech.ac.kr/research/transfernet/)]
+* Learning Transferrable Knowledge for Semantic Segmentation with DCNNs: http://arxiv.org/pdf/1512.07928.pdf | [[Project Page](http://cvlab.postech.ac.kr/research/transfernet/)
 * Conditional Random Fields as RNNs: http://arxiv.org/pdf/1502.03240
 * DeepLab: Weakly-and semi-supervised learning of a DCNN for semantic image segmentation: http://arxiv.org/pdf/1502.02734
 * Zoom-out: Feedforward Semantic Segmentation With Zoom-Out Features: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mostajabi_Feedforward_Semantic_Segmentation_2015_CVPR_paper.pdf)
