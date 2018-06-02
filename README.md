@@ -118,6 +118,10 @@
 * Segment-Phrase Table for Semantic Segmentation, Visual Entailment and Paraphrasing: [ICCV 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Izadinia_Segment-Phrase_Table_for_ICCV_2015_paper.pdf)
 * Pusing the Boundaries of Boundary Detection Using deep Learning: http://arxiv.org/pdf/1511.07386v2.pdf
 * Weakly supervised graph based semantic segmentation by learning communities of image-parts: [ICCV 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Pourian_Weakly_Supervised_Graph_ICCV_2015_paper.pdf)
+* Semantic image segmentation with deep convolutional nets and fully connected crfs: https://arxiv.org/pdf/1606.00915v1.pdf
+* Learning to segment object candidates: https://arxiv.org/pdf/1506.06204v2.pdf
+* Instance-aware semantic segmentation via multi-task network cascades: https://arxiv.org/pdf/1512.04412v1.pdf
+* Instance-aware fully convolutional networks: https://arxiv.org/pdf/1603.08678v1.pdf
 
 ### Visual Attention and Saliency:
 
@@ -149,6 +153,8 @@
 
 ### Image Captioning:
 
+* Every picture tells a story: Generating sentences from images: [link](https://www.cs.cmu.edu/~afarhadi/papers/sentence.pdf)
+* Baby talk: Understanding and generating image descriptions: [link]((http://tamaraberg.com/papers/generation_cvpr11.pdf)
 * Explaining Images with Multimodal RNNs: http://arxiv.org/pdf/1410.1090, http://arxiv.org/pdf/1411.2539
 * Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models: http://arxiv.org/pdf/1411.4389
 * Show and Tell: A Neural Image Caption Generator: http://arxiv.org/pdf/1411.4555
@@ -157,7 +163,7 @@
 * Translating Videos to Natural Language Using Deep RNNs: http://arxiv.org/pdf/1411.5654, [CVPR 2015](http://www.cs.cmu.edu/~xinleic/papers/cvpr15_rnn.pdf)
 * Mind’s Eye: A Recurrent Visual Representation for Image Caption Generation: 
 * CapGen: From Captions to Visual Concepts and Back: http://arxiv.org/pdf/1411.4952, [Web](http://kelvinxu.github.io/projects/capgen.html), [Paper](http://www.cs.toronto.edu/~zemel/documents/captionAttn.pdf)
-* Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention: http://arxiv.org/pdf/1502.03671
+* Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention: http://arxiv.org/pdf/1502.03671, https://arxiv.org/pdf/1502.03044v3.pdf
 * Phrase-based Image Captioning: http://arxiv.org/pdf/1504.06692
 * Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images: https://arxiv.org/pdf/1504.06692.pdf
 * Exploring Nearest Neighbor Approaches for Image Captioning: http://arxiv.org/pdf/1505.04467.pdf
