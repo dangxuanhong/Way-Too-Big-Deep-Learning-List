@@ -6,10 +6,10 @@
 * Deep Residual Learning for Image Recognition: http://arxiv.org/pdf/1512.03385
 * PReLu/Weight Initialization (MSFT) [http://arxiv.org/pdf/1502.01852]
 * Rectifiers: Surpassing Human-Level Performance on ImageNet Classification: http://arxiv.org/pdf/1502.01852
-* Batch Normalization [http://arxiv.org/pdf/1502.03167]
-* Batch Normalization: Reducing Internal Covariate Shift [arXiv:1502.03167]
-* GoogLeNet [http://arxiv.org/pdf/1409.4842]
-* VGG-Net (ICLR, 2015) [[Web]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) | [http://arxiv.org/pdf/1409.1556]
+* Batch Normalization: http://arxiv.org/pdf/1502.03167
+* Batch Normalization: Reducing Internal Covariate Shift http://arxiv.org/pdf/1502.03167
+* GoogLeNet: http://arxiv.org/pdf/1409.4842
+* VGG-Net (ICLR, 2015) [[Web]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) | http://arxiv.org/pdf/1409.1556
 * AlexNet (2012): [Paper](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
 
 ### Object Detection:
