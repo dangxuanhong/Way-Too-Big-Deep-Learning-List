@@ -97,11 +97,11 @@
 * DeepLab: Weakly-and semi-supervised learning of a DCNN for semantic image segmentation: http://arxiv.org/pdf/1502.02734
 * Zoom-out: Feedforward Semantic Segmentation With Zoom-Out Features: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mostajabi_Feedforward_Semantic_Segmentation_2015_CVPR_paper.pdf)
 * Joint Calibration for Semantic Segmentation: http://arxiv.org/pdf/1507.01581
-* FCNs for Semantic Segmentation: [CVPR 2015]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) | http://arxiv.org/pdf/1411.4038
+* FCNs for Semantic Segmentation: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) | http://arxiv.org/pdf/1411.4038
 * Hypercolumns for Object Segmentation and Fine-Grained Localization: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hariharan_Hypercolumns_for_Object_2015_CVPR_paper.pdf)
-* Deep Hierarchical Parsing for Semantic Segmentation: [[CVPR 2015]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sharma_Deep_Hierarchical_Parsing_2015_CVPR_paper.pdf)
-* Learning Hierarchical Features for Scene Labeling [ICML 2012](http://yann.lecun.com/exdb/publis/pdf/farabet-icml-12.pdf) [[Paper-PAMI13]](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
-* SegNet: [[Web]](http://mi.eng.cam.ac.uk/projects/segnet/)
+* Deep Hierarchical Parsing for Semantic Segmentation: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sharma_Deep_Hierarchical_Parsing_2015_CVPR_paper.pdf)
+* Learning Hierarchical Features for Scene Labeling [ICML 2012](http://yann.lecun.com/exdb/publis/pdf/farabet-icml-12.pdf) | [PAMI 2013](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
+* SegNet: [Web](http://mi.eng.cam.ac.uk/projects/segnet/)
 * SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation: http://arxiv.org/abs/1511.00561
 * Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding:  http://arxiv.org/abs/1511.00561
 * Multi-Scale Context Aggregation by Dilated Convolutions: http://arxiv.org/pdf/1511.07122v2.pdf
