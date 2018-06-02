@@ -18,7 +18,7 @@
 
 ### Object Detection:
 
-* PVANET (PVA faster-RCNN): [https://arxiv.org/pdf/1608.08021] | [Code](https://github.com/sanghoon/pva-faster-rcnn)
+* PVANET (PVA faster-RCNN): https://arxiv.org/pdf/1608.08021 | [Code](https://github.com/sanghoon/pva-faster-rcnn)
   * Kye-Hyeon Kim, Sanghoon Hong, Byungseok Roh, Yeongjae Cheon, Minje Park, PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection, arXiv:1608.08021
 * OverFeat, NYU [[Paper]](http://arxiv.org/pdf/1312.6229.pdf)
   * OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks, ICLR, 2014.
