@@ -57,11 +57,13 @@
 * SSD: Single Shot MultiBox Detector: https://arxiv.org/pdf/1512.02325v2.pdf | [Code](https://github.com/weiliu89/caffe/tree/ssd)
 * Speed/accuracy trade-offs for modern convolutional object detectors: https://arxiv.org/pdf/1611.10012v1.pdf
 
-### Video Classification
+### Video Classification:
+
 * Convolutional Networks for Learning Video Representations, ICLR 2016: http://arxiv.org/pdf/1511.06432v4.pdf
 * Deep Multi Scale Video Prediction Beyond Mean Square Error, ICLR 2016: http://arxiv.org/pdf/1511.05440v6.pdf
 
-### Object Tracking
+### Object Tracking:
+
 * Online Tracking by Learning Discriminative Saliency Maps with CNNs: http://arxiv.org/pdf/1502.06796
 * DeepTrack: Discriminative Feature Representations with CNNs, BMVC, 2014: http://www.bmva.org/bmvc/2014/files/paper028.pdf
 * Learning a Deep Compact Image Representation for Visual Tracking, NIPS, 2013: http://winsty.net/papers/dlt.pdf
@@ -85,13 +87,13 @@
 * SRGAN: Photo-Realistic Single Image Super-Resolution with GANs, 2016: https://arxiv.org/pdf/1609.04802v3.pdf
 * Image Super-Resolution with Fast Approximate Convolutional Sparse Coding, ICONIP, 2014: [Paper](http://brml.org/uploads/tx_sibibtex/281.pdf)
 
-### Edge Detection
+### Edge Detection:
 
 * Holistically-Nested Edge Detection: http://arxiv.org/pdf/1504.06375 | [Code](https://github.com/s9xie/hed)
 * DeepEdge: Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR, 2015: http://arxiv.org/pdf/1412.1123
 * DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection: [CVPR15](http://mc.eistar.net/UpLoadFiles/Papers/DeepContour_cvpr15.pdf)
 
-### Semantic Segmentation
+### Semantic Segmentation:
 
 * SEC (Seed, Expand & Constrain): Three Principles for Weakly-Supervised Image Segmentation: [ECCV, 2016](http://pub.ist.ac.at/~akolesnikov/files/ECCV2016/main.pdf) | [Code](https://github.com/kolesman/SEC)
 * Adelaide: Piecewise training of deep structured models: http://arxiv.org/pdf/1504.01013
@@ -117,7 +119,7 @@
 * Pusing the Boundaries of Boundary Detection Using deep Learning: http://arxiv.org/pdf/1511.07386v2.pdf
 * Weakly supervised graph based semantic segmentation by learning communities of image-parts: [ICCV 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Pourian_Weakly_Supervised_Graph_ICCV_2015_paper.pdf)
 
-### [Visual Attention and Saliency](http://www.scholarpedia.org/article/Visual_salience)
+### Visual Attention and Saliency:
 
 * Mr-CNN: Predicting Eye Fixations using CNNs: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Predicting_Eye_Fixations_2015_CVPR_paper.pdf)
 * Sequential Search for Landmarks: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Singh_Learning_a_Sequential_2015_CVPR_paper.pdf)
@@ -136,7 +138,7 @@
 * Flowing convnets for human pose estimation in videos: https://arxiv.org/pdf/1506.02897.pdf
 * Joint training of a CNN & graphical model for human pose estimation: https://arxiv.org/pdf/1701.00295.pdf
 
-### Image Understanding
+### Image Understanding:
 
 * Understanding image representations by measuring equivariance and equivalence: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf)
 * DNNs are Easily Fooled:High Confidence Predictions for Unrecognizable Images: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.pdf)
@@ -145,7 +147,7 @@
 * Inverting Visual Representations with CNNs: http://arxiv.org/abs/1506.02753
 * Visualizing and Understanding CNNs: [ECCV 2014](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
-### Image Captioning
+### Image Captioning:
 
 * Explaining Images with Multimodal RNNs: http://arxiv.org/pdf/1410.1090, http://arxiv.org/pdf/1411.2539
 * Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models: http://arxiv.org/pdf/1411.4389
@@ -165,7 +167,7 @@
 * Describing Multimedia Content using Attention-based Encoder-Decoder Networks: http://arxiv.org/pdf/1508.02091.pdf
 * Image Representations and New Domains in Neural Image Captioning: [ICCV 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yao_Learning_Query_and_ICCV_2015_paper.pdf)]
 
-### Video Captioning
+### Video Captioning:
 
 * LCRNs: Long-term Recurrent CNNs for Visual Recognition and Description: [Web](http://jeffdonahue.com/lrcn), http://arxiv.org/pdf/1411.4389.pdf, http://arxiv.org/pdf/1412.4729
   * Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Translating Videos to Natural Language Using Deep Recurrent Neural Networks, arXiv:1412.4729.
@@ -178,7 +180,7 @@
 * Describing Multimedia Content using Attention-based Encoder-Decoder Networks: https://arxiv.org/pdf/1612.06950.pdf
 * Temporal Tessellation for Video Annotation and Summarization: https://arxiv.org/pdf/1612.06950.pdf
 
-#### Image (IQA) and Visual (VQA) Question Answering
+#### Image (IQA) and Visual (VQA) Question Answering:
 
 * Visual Question Answering: [Web](http://www.visualqa.org/), http://arxiv.org/pdf/1505.00468, [MPI / Berkeley](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/visual-turing-challenge/), http://arxiv.org/pdf/1505.01121
 * Ask Your Neurons: A Neural-based Approach to IQA http://arxiv.org/pdf/1505.01121
@@ -197,13 +199,13 @@
 * Training Recurrent Answering Units with Joint Loss Minimization for VQA: http://arxiv.org/pdf/1606.03647.pdf
 * Hadamard Product for Low-rank Bilinear Pooling: http://arxiv.org/pdf/1610.04325
 
-### Image Generation: Convolutional / Recurrent Networks
+### Image Generation: Convolutional / Recurrent Networks:
 
 * Conditional Image Generation with PixelCNN Decoders: https://arxiv.org/pdf/1606.05328v2.pdf, [Code](https://github.com/kundan2510/pixelCNN)
 * Learning to Generate Chairs with Convolutional Neural Networks: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
 * DRAW: A Recurrent Neural Network For Image Generation: https://arxiv.org/pdf/1502.04623v2.pdf
 
-### Image Generation: Adversarial Networks
+### Image Generation: Adversarial Networks:
 
 * Generative Adversarial Networks: http://arxiv.org/abs/1406.2661
 * Deep Generative Image Models using a ￼Laplacian Pyramid of Adversarial Networks: http://arxiv.org/abs/1506.05751
@@ -216,7 +218,8 @@
 * Generative Visual Manipulation on the Natural Image Manifold: https://arxiv.org/pdf/1609.03552v2.pdf, [Code](https://github.com/junyanz/iGAN)], [Video](https://youtu.be/9c4z6YsBGQ0)]
 * Unsupervised Representation Learning with Deep Convolutional GANs: http://arxiv.org/pdf/1511.06434.pdf
 
-### Other Topics
+### Other Topics:
+
 * Visual Analogies: [NIPS 2015](https://web.eecs.umich.edu/~honglak/nips2015-analogy.pdf)
 * Designing Deep Networks for Surface Normal Estimation: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Designing_Deep_Networks_2015_CVPR_paper.pdf)
 * Action Detection [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Gkioxari_Finding_Action_Tubes_2015_CVPR_paper.pdf)
@@ -240,7 +243,8 @@
 * Feature Learning by Inpainting: https://arxiv.org/pdf/1604.07379v1.pdf, [Code](https://github.com/pathak22/context-encoder)
 
 
-## Courses
+## Courses:
+
 * Deep Vision
   * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
@@ -249,7 +253,8 @@
   * [Oxford] [Deep Learning by Prof. Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
   * [NYU] [Deep Learning by Prof. Yann LeCun](http://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
 
-### Books
+### Books:
+
 * Free Online Books
   * [Deep Learning: Goodfellow, Bengio, Courville](http://www.deeplearningbook.org)
   * [Neural Networks and Deep Learning: Nielsen](http://neuralnetworksanddeeplearning.com/)
@@ -270,17 +275,13 @@
 * [MXNet](http://mxnet.io/)
 * [Deepgaze](https://github.com/mpatacchiola/deepgaze)
 
-### Applications
-* Adversarial Training
-  * Code and hyperparameters for the paper "Generative Adversarial Networks" [[Web]](https://github.com/goodfeli/adversarial)
-* Understanding and Visualizing
-  * Source code for "Understanding Deep Image Representations by Inverting Them," CVPR, 2015. [[Web]](https://github.com/aravindhm/deep-goggle)
-* Semantic Segmentation
-  * Source code for the paper "Rich feature hierarchies for accurate object detection and semantic segmentation," CVPR, 2014. [[Web]](https://github.com/rbgirshick/rcnn)
-  * Source code for the paper "Fully Convolutional Networks for Semantic Segmentation," CVPR, 2015. [[Web]](https://github.com/longjon/caffe/tree/future)
-* Super-Resolution
-  * Image Super-Resolution for Anime-Style-Art [[Web]](https://github.com/nagadomi/waifu2x)
-* Edge Detection
-  * Source code for the paper "DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection," CVPR, 2015. [[Web]](https://github.com/shenwei1231/DeepContour)
-  * Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [[Web]](https://github.com/s9xie/hed)
+### More Code:
+
+* Generative Adversarial Networks: https://github.com/goodfeli/adversarial
+* Understanding Deep Image Representations by Inverting Them: https://github.com/aravindhm/deep-goggle
+* Rich feature hierarchies for accurate object detection and semantic segmentation: https://github.com/rbgirshick/rcnn
+* Fully Convolutional Networks for Semantic Segmentation: https://github.com/longjon/caffe/tree/future
+* Image Super-Resolution for Anime-Style-Art: https://github.com/nagadomi/waifu2x
+* DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection: https://github.com/shenwei1231/DeepContour
+* Holistically-Nested Edge Detection: https://github.com/s9xie/hed
 
