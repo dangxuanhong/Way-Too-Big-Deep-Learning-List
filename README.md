@@ -1,16 +1,43 @@
 # Brian's Deep Learning reading list:
 
-### ImageNet:
+### ImageNet Historicals:
 
-* Deep Residual Learning (MSFT, 2015) http://arxiv.org/pdf/1512.03385v1.pdf | [Slides](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
-* Deep Residual Learning for Image Recognition: http://arxiv.org/pdf/1512.03385
-* PReLu/Weight Initialization (MSFT) [http://arxiv.org/pdf/1502.01852]
-* Rectifiers: Surpassing Human-Level Performance on ImageNet Classification: http://arxiv.org/pdf/1502.01852
-* Batch Normalization: http://arxiv.org/pdf/1502.03167
-* Batch Normalization: Reducing Internal Covariate Shift http://arxiv.org/pdf/1502.03167
+* ResNet: https://arxiv.org/pdf/1512.03385.pdf
 * GoogLeNet: http://arxiv.org/pdf/1409.4842
-* VGG-Net (ICLR, 2015) [[Web]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) | http://arxiv.org/pdf/1409.1556
-* AlexNet (2012): [Paper](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
+* VGG-Net: [ICLR 2015](http://www.robots.ox.ac.uk/~vgg/research/very_deep/), http://arxiv.org/pdf/1409.1556
+* Deep Residual Learning: http://arxiv.org/pdf/1512.03385v1.pdf | [2015](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
+* Deep Residual Learning for Image Recognition: http://arxiv.org/pdf/1512.03385
+* PReLu/Weight Initialization: [http://arxiv.org/pdf/1502.01852]
+* Rectifiers: Surpassing Human-Level Performance on ImageNet Classification: http://arxiv.org/pdf/1502.01852
+* AlexNet: [NIPS 2012](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
+
+### Speech Recognition:
+
+* Deep neural networks for acoustic modeling in speech recognition: http://cs224d.stanford.edu/papers/maas_paper.pdf
+* Speech recognition with deep RNNs: http://arxiv.org/pdf/1303.5778.pdf
+* E2E speech recognition with RNNs: http://www.jmlr.org/proceedings/papers/v32/graves14.pdf
+* Google speech recognition system: http://arxiv.org/pdf/1507.06947
+* E2E speech recognition in English & Mandarin (Baidu): https://arxiv.org/pdf/1512.02595.pdf
+* Human parity in conversational speech recognition (MSFT): https://arxiv.org/pdf/1610.05256v1
+
+### Models:
+
+* Dropout: https://arxiv.org/pdf/1207.0580.pdf, https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+* Batch Normalization: http://arxiv.org/pdf/1502.03167
+* Batch Normalization: Reducing Internal Covariate Shift: http://arxiv.org/pdf/1502.03167
+* Layer Normalization: https://arxiv.org/pdf/1607.06450.pdf
+* Decoupled neural interfaces using synthetic gradients: https://arxiv.org/pdf/1608.05343
+* Net2Net: knowledge transfer: https://arxiv.org/abs/1511.05641
+* Network Morphism: https://arxiv.org/abs/1603.01670
+
+### Optimization:
+
+* On the importance of initialization & momentum in deep learning: [JMLR](http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf)
+* Adam stochastic optimization: http://arxiv.org/pdf/1412.6980
+* Neural Optimizer: Learning to learn by gradient descent by gradient descent: https://arxiv.org/pdf/1606.04474
+* Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding: https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf
+* SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size: http://arxiv.org/pdf/1602.07360
+
 
 ### Object Detection:
 
@@ -224,7 +251,7 @@
 
 ### Books
 * Free Online Books
-  * [Deep Learning: Goodfellow, Bengio, Courville](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+  * [Deep Learning: Goodfellow, Bengio, Courville](http://www.deeplearningbook.org)
   * [Neural Networks and Deep Learning: Nielsen](http://neuralnetworksanddeeplearning.com/)
   * [Deep Learning Tutorial: LISA lab](http://deeplearning.net/tutorial/deeplearning.pdf)
 
