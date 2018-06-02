@@ -1,9 +1,9 @@
 # Brian's Deep Learning reading list:
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 ### ImageNet:
 
-* Deep Residual Learning (MSFT, 2015) [[http://arxiv.org/pdf/1512.03385v1.pdf](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slides](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
+* Deep Residual Learning (MSFT, 2015) [http://arxiv.org/pdf/1512.03385v1.pdf](http://arxiv.org/pdf/1512.03385v1.pdf)
+ [Slides](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
 * Deep Residual Learning for Image Recognition, arXiv:1512.03385.
 * PReLu/Weight Initialization (MSFT) [[Paper]](http://arxiv.org/pdf/1502.01852)
 * Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, [arXiv:1502.01852](arXiv:1502.01852)
