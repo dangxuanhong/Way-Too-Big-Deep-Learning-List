@@ -139,10 +139,10 @@
 
 ### Image Captioning
 
-* Explain Images with Multimodal RNNs: (UCLA/Baidu)[http://arxiv.org/pdf/1410.1090], [Toronto](http://arxiv.org/pdf/1411.2539)
+* Explaining Images with Multimodal RNNs: http://arxiv.org/pdf/1410.1090, http://arxiv.org/pdf/1411.2539
 * Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models: http://arxiv.org/pdf/1411.4389
 * Show and Tell: A Neural Image Caption Generator: http://arxiv.org/pdf/1411.4555
-* Stanford [[Web]](http://cs.stanford.edu/people/karpathy/deepimagesent/) [[Paper]](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
+* Stanford [[Web]](http://cs.stanford.edu/people/karpathy/deepimagesent/), [CVPR 2015](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
 * Deep Visual-Semantic Alignments for Generating Image Descriptions: http://arxiv.org/pdf/1412.4729
 * Translating Videos to Natural Language Using Deep RNNs: http://arxiv.org/pdf/1411.5654, [CVPR 2015](http://www.cs.cmu.edu/~xinleic/papers/cvpr15_rnn.pdf)
 * Mind’s Eye: A Recurrent Visual Representation for Image Caption Generation: 
@@ -152,33 +152,23 @@
 * Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images: https://arxiv.org/pdf/1504.06692.pdf
 * Exploring Nearest Neighbor Approaches for Image Captioning: http://arxiv.org/pdf/1505.04467.pdf
 * Language Models for Image Captioning: The Quirks and What Works: http://arxiv.org/pdf/1505.01809.pdf
-* Adelaide: Image Captioning with an Intermediate Attributes Layer: http://arxiv.org/pdf/1506.01144.pdf
-* Image Captioning with an Intermediate Attributes Layer, arXiv:1506.01144
-* Tilburg: http://arxiv.org/pdf/1506.03694.pdf
-* Learning language through pictures: http://arxiv.org/pdf/1507.01053.pdf
+* Image Captioning with an Intermediate Attributes Layer: http://arxiv.org/pdf/1506.01144.pdf
+* Learning language through pictures: http://arxiv.org/pdf/1506.03694.pdf
 * Describing Multimedia Content using Attention-based Encoder-Decoder Networks: http://arxiv.org/pdf/1508.02091.pdf
 * Image Representations and New Domains in Neural Image Captioning: [ICCV 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yao_Learning_Query_and_ICCV_2015_paper.pdf)]
 
-#### Video Captioning
+### Video Captioning
 
-* Long-term Recurrent CNNs for Visual Recognition and Description: [Web], (http://jeffdonahue.com/lrcn), http://arxiv.org/pdf/1411.4389.pdf
-  * Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell, Long-term Recurrent Convolutional Networks for Visual Recognition and Description, CVPR, 2015.
-* UT / UML / Berkeley [[Paper]](http://arxiv.org/pdf/1412.4729)
+* LCRNs: Long-term Recurrent CNNs for Visual Recognition and Description: [Web](http://jeffdonahue.com/lrcn), http://arxiv.org/pdf/1411.4389.pdf, http://arxiv.org/pdf/1412.4729
   * Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Translating Videos to Natural Language Using Deep Recurrent Neural Networks, arXiv:1412.4729.
 * Microsoft [[Paper]](http://arxiv.org/pdf/1505.01861)
-  * Yingwei Pan, Tao Mei, Ting Yao, Houqiang Li, Yong Rui, Joint Modeling Embedding and Translation to Bridge Video and Language, arXiv:1505.01861.
-* UT / Berkeley / UML [[Paper]](http://arxiv.org/pdf/1505.00487)
-  * Subhashini Venugopalan, Marcus Rohrbach, Jeff Donahue, Raymond Mooney, Trevor Darrell, Kate Saenko, Sequence to Sequence--Video to Text, arXiv:1505.00487.
-* Univ. Montreal / Univ. Sherbrooke [[Paper](http://arxiv.org/pdf/1502.08029.pdf)]
-  * Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, Aaron Courville, Describing Videos by Exploiting Temporal Structure, arXiv:1502.08029
-* MPI / Berkeley [[Paper](http://arxiv.org/pdf/1506.01698.pdf)]
-  * Anna Rohrbach, Marcus Rohrbach, Bernt Schiele, The Long-Short Story of Movie Description, arXiv:1506.01698
-* Univ. Toronto / MIT [[Paper](http://arxiv.org/pdf/1506.06724.pdf)]
-  * Yukun Zhu, Ryan Kiros, Richard Zemel, Ruslan Salakhutdinov, Raquel Urtasun, Antonio Torralba, Sanja Fidler, Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books, arXiv:1506.06724
-* Univ. Montreal [[Paper](http://arxiv.org/pdf/1507.01053.pdf)]
-  * Kyunghyun Cho, Aaron Courville, Yoshua Bengio, Describing Multimedia Content using Attention-based Encoder-Decoder Networks, arXiv:1507.01053
-* TAU / USC [[paper](https://arxiv.org/pdf/1612.06950.pdf)]
-  * Dotan Kaufman, Gil Levi, Tal Hassner, Lior Wolf, Temporal Tessellation for Video Annotation and Summarization, arXiv:1612.06950.
+* Joint Modeling Embedding and Translation to Bridge Video and Language: http://arxiv.org/pdf/1505.00487
+* Sequence to Sequence--Video to Text: http://arxiv.org/pdf/1502.08029.pdf
+* Describing Videos by Exploiting Temporal Structure: http://arxiv.org/pdf/1506.01698.pdf
+* The Long-Short Story of Movie Description: http://arxiv.org/pdf/1506.06724.pdf
+* Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books: http://arxiv.org/pdf/1507.01053.pdf
+* Describing Multimedia Content using Attention-based Encoder-Decoder Networks: https://arxiv.org/pdf/1612.06950.pdf
+* Temporal Tessellation for Video Annotation and Summarization: https://arxiv.org/pdf/1612.06950.pdf
 
 #### Question Answering
 ![question_answering](https://cloud.githubusercontent.com/assets/5226447/8452068/ffe7b1f6-2022-11e5-87ab-4f6d4696c220.PNG)
