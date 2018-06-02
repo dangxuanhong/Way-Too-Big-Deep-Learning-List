@@ -4,7 +4,7 @@
 
 * Deep Residual Learning (MSFT, 2015) [[http://arxiv.org/pdf/1512.03385v1.pdf](http://arxiv.org/pdf/1512.03385v1.pdf)]
   [[Slides](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
-* Deep Residual Learning for Image Recognition: [arXiv:1512.03385](arXiv:1512.03385)
+* Deep Residual Learning for Image Recognition: [http://arxiv.org/pdf/1512.03385](http://arxiv.org/pdf/1512.03385)
 * PReLu/Weight Initialization (MSFT) [[Paper]](http://arxiv.org/pdf/1502.01852)
 * Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, [arXiv:1502.01852](arXiv:1502.01852)
 * Batch Normalization [[Paper]](http://arxiv.org/pdf/1502.03167)
