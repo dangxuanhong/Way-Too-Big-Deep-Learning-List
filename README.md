@@ -79,7 +79,7 @@
 
 ### Edge Detection
 
-* Holistically-Nested Edge Detection: http://arxiv.org/pdf/1504.06375 | [Code]](https://github.com/s9xie/hed)
+* Holistically-Nested Edge Detection: http://arxiv.org/pdf/1504.06375 | [Code](https://github.com/s9xie/hed)
 * DeepEdge: Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR, 2015: http://arxiv.org/pdf/1412.1123
 * DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection: [CVPR15](http://mc.eistar.net/UpLoadFiles/Papers/DeepContour_cvpr15.pdf)
 
