@@ -18,13 +18,11 @@
 * OverFeat: Integrated Recognition, Localization & Detection using CNNs, ICLR 2014: http://arxiv.org/pdf/1312.6229.pdf
 * R-CNN: Rich feature hierarchies for object detection & semantic segmentation, CVPR, 2014. http://arxiv.org/pdf/1311.2524 | [Paper-CVPR14](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) 
 * SPP (Spatial Pyramid Pooling in DCNNs, ECCV, 2014: http://arxiv.org/pdf/1406.4729
-* Fast R-CNN: http://arxiv.org/pdf/1504.08083
+* Fast R-CNN: Region-Based CNNs: http://arxiv.org/pdf/1504.08083
 * Faster R-CNN: Real-Time Object Detection with Region Proposal Networks: http://arxiv.org/pdf/1506.01497 
-* R-CNN minus R, Oxford [[Paper]](http://arxiv.org/pdf/1506.06981)
-  * Karel Lenc, Andrea Vedaldi, R-CNN minus R, arXiv:1506.06981.
-* End-to-end people detection in crowded scenes [[Paper]](http://arxiv.org/abs/1506.04878)
-  * Russell Stewart, Mykhaylo Andriluka, End-to-end people detection in crowded scenes, arXiv:1506.04878.
-* You Only Look Once: Unified, Real-Time Object Detection [[Paper]](http://arxiv.org/abs/1506.02640), [[Paper Version 2]](https://arxiv.org/abs/1612.08242), [[C Code]](https://github.com/pjreddie/darknet), [[Tensorflow Code]](https://github.com/thtrieu/darkflow)
+* R-CNN minus R: http://arxiv.org/pdf/1506.06981
+* E2E people detection in crowded scenes: http://arxiv.org/abs/1506.04878
+* You Only Look Once: Real-Time Object Detection: http://arxiv.org/abs/1506.02640 | https://arxiv.org/abs/1612.08242 | [C Code](https://github.com/pjreddie/darknet) | [Tensorflow Code](https://github.com/thtrieu/darkflow)
   * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
   * Joseph Redmon, Ali Farhadi (Version 2)
 * Inside-Outside Net [[Paper]](http://arxiv.org/abs/1512.04143)
