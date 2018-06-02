@@ -35,12 +35,12 @@
 * Deep Multi Scale Video Prediction Beyond Mean Square Error, ICLR 2016: http://arxiv.org/pdf/1511.05440v6.pdf
 
 ### Object Tracking
-* Seunghoon Hong, Tackgeun You, Suha Kwak, Bohyung Han, Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network, arXiv:1502.06796. [[Paper]](http://arxiv.org/pdf/1502.06796)
-* Hanxi Li, Yi Li and Fatih Porikli, DeepTrack: Learning Discriminative Feature Representations by Convolutional Neural Networks for Visual Tracking, BMVC, 2014. [[Paper]](http://www.bmva.org/bmvc/2014/files/paper028.pdf)
-* N Wang, DY Yeung, Learning a Deep Compact Image Representation for Visual Tracking, NIPS, 2013. [[Paper]](http://winsty.net/papers/dlt.pdf)
-* Chao Ma, Jia-Bin Huang, Xiaokang Yang and Ming-Hsuan Yang, Hierarchical Convolutional Features for Visual Tracking, ICCV 2015 [[Paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ma_Hierarchical_Convolutional_Features_ICCV_2015_paper.pdf)] [[Code](https://github.com/jbhuang0604/CF2)]
-* Lijun Wang, Wanli Ouyang, Xiaogang Wang, and Huchuan Lu, Visual Tracking with fully Convolutional Networks, ICCV 2015  [[Paper](http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf)] [[Code](https://github.com/scott89/FCNT)]
-* Hyeonseob Namand Bohyung Han, Learning Multi-Domain Convolutional Neural Networks for Visual Tracking, [[Paper](http://arxiv.org/pdf/1510.07945.pdf)] [[Code](https://github.com/HyeonseobNam/MDNet)] [[Project Page](http://cvlab.postech.ac.kr/research/mdnet/)]
+* Online Tracking by Learning Discriminative Saliency Maps with CNNs: http://arxiv.org/pdf/1502.06796
+* DeepTrack: Discriminative Feature Representations with CNNs, BMVC, 2014: http://www.bmva.org/bmvc/2014/files/paper028.pdf
+* Learning a Deep Compact Image Representation for Visual Tracking, NIPS, 2013: http://winsty.net/papers/dlt.pdf
+* Hierarchical Convolutional Features for Visual Tracking, ICCV 2015: [Paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ma_Hierarchical_Convolutional_Features_ICCV_2015_paper.pdf) | [Code](https://github.com/jbhuang0604/CF2)
+* Visual Tracking with FCNs, ICCV 2015: [Paper](http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf)] | [Code](https://github.com/scott89/FCNT)
+* Learning Multi-Domain CNNs for Visual Tracking: http://arxiv.org/pdf/1510.07945.pdf | [Code](https://github.com/HyeonseobNam/MDNet)] | [Project Page](http://cvlab.postech.ac.kr/research/mdnet/)
 
 ### Low-Level Vision
 
