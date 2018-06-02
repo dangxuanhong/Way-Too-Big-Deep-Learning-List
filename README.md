@@ -39,30 +39,24 @@
 * DeepTrack: Discriminative Feature Representations with CNNs, BMVC, 2014: http://www.bmva.org/bmvc/2014/files/paper028.pdf
 * Learning a Deep Compact Image Representation for Visual Tracking, NIPS, 2013: http://winsty.net/papers/dlt.pdf
 * Hierarchical Convolutional Features for Visual Tracking, ICCV 2015: [Paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ma_Hierarchical_Convolutional_Features_ICCV_2015_paper.pdf) | [Code](https://github.com/jbhuang0604/CF2)
-* Visual Tracking with FCNs, ICCV 2015: [Paper](http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf)] | [Code](https://github.com/scott89/FCNT)
+* Visual Tracking with FCNs, ICCV 2015: [Paper](http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf) | [Code](https://github.com/scott89/FCNT)
 * Learning Multi-Domain CNNs for Visual Tracking: http://arxiv.org/pdf/1510.07945.pdf | [Code](https://github.com/HyeonseobNam/MDNet) | [Project Page](http://cvlab.postech.ac.kr/research/mdnet/)
 
 ### Low-Level Vision
 
 #### Super-Resolution
-* Iterative Image Reconstruction
-  * Sven Behnke: Learning Iterative Image Reconstruction. IJCAI, 2001. [[Paper]](http://www.ais.uni-bonn.de/behnke/papers/ijcai01.pdf)
-  * Sven Behnke: Learning Iterative Image Reconstruction in the Neural Abstraction Pyramid. International Journal of Computational Intelligence and Applications, vol. 1, no. 4, pp. 427-438, 2001. [[Paper]](http://www.ais.uni-bonn.de/behnke/papers/ijcia01.pdf)
-* Super-Resolution (SRCNN) [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) [[Paper-ECCV14]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Paper-arXiv15]](http://arxiv.org/pdf/1501.00092.pdf)
-  * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Learning a Deep Convolutional Network for Image Super-Resolution, ECCV, 2014.
-  * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Image Super-Resolution Using Deep Convolutional Networks, arXiv:1501.00092.
+* Learning Iterative Image Reconstruction. IJCAI, 2001. [[Paper]](http://www.ais.uni-bonn.de/behnke/papers/ijcai01.pdf)
+* Super-Resolution (SRCNN) [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) | [[Paper-ECCV14]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) | [[Paper-arXiv15]](http://arxiv.org/pdf/1501.00092.pdf)
+* Image Super-Resolution Using Deep CNNs, arXiv:1501.00092.
 * Very Deep Super-Resolution
   * Jiwon Kim, Jung Kwon Lee, Kyoung Mu Lee, Accurate Image Super-Resolution Using Very Deep Convolutional Networks, arXiv:1511.04587, 2015. [[Paper]](http://arxiv.org/abs/1511.04587)
 * Deeply-Recursive Convolutional Network
   * Jiwon Kim, Jung Kwon Lee, Kyoung Mu Lee, Deeply-Recursive Convolutional Network for Image Super-Resolution, arXiv:1511.04491, 2015. [[Paper]](http://arxiv.org/abs/1511.04491)
 * Casade-Sparse-Coding-Network
   * Zhaowen Wang, Ding Liu, Wei Han, Jianchao Yang and Thomas S. Huang, Deep Networks for Image Super-Resolution with Sparse Prior. ICCV, 2015. [[Paper]](http://www.ifp.illinois.edu/~dingliu2/iccv15/iccv15.pdf) [[Code]](http://www.ifp.illinois.edu/~dingliu2/iccv15/)
-* Perceptual Losses for Super-Resolution
-  * Justin Johnson, Alexandre Alahi, Li Fei-Fei, Perceptual Losses for Real-Time Style Transfer and Super-Resolution, arXiv:1603.08155, 2016. [[Paper]](http://arxiv.org/abs/1603.08155) [[Supplementary]](http://cs.stanford.edu/people/jcjohns/papers/fast-style/fast-style-supp.pdf)
-* SRGAN
-  * Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi, Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, arXiv:1609.04802v3, 2016. [[Paper]](https://arxiv.org/pdf/1609.04802v3.pdf)
-* Others
-  * Osendorfer, Christian, Hubert Soyer, and Patrick van der Smagt, Image Super-Resolution with Fast Approximate Convolutional Sparse Coding, ICONIP, 2014. [[Paper ICONIP-2014]](http://brml.org/uploads/tx_sibibtex/281.pdf)
+* Perceptual Losses for Real-Time Style Transfer and Super-Resolution: http://arxiv.org/abs/1603.08155 | [Supplement](http://cs.stanford.edu/people/jcjohns/papers/fast-style/fast-style-supp.pdf)
+* SRGAN: Photo-Realistic Single Image Super-Resolution with GANs, 2016: https://arxiv.org/pdf/1609.04802v3.pdf
+* Image Super-Resolution with Fast Approximate Convolutional Sparse Coding, ICONIP, 2014: [Paper](http://brml.org/uploads/tx_sibibtex/281.pdf)
 
 #### Other Applications
 * Optical Flow (FlowNet) [[Paper]](http://arxiv.org/pdf/1504.06852)
