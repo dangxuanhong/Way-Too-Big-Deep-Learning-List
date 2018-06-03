@@ -37,13 +37,15 @@
 * PixelRNN: Pixel recurrent neural networks: http://arxiv.org/pdf/1601.06759
 * PixclCNN: Conditional image generation with PixelCNN decoders: https://arxiv.org/pdf/1606.05328
 
-### [Recurrent Neural Nets:](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+### Art & Styling:
 
-* LSTMs: Generating sequences with recurrent neural networks: http://arxiv.org/pdf/1308.0850
-* Seq2Seq: Learning phrase representations using RNN encoder-decoder for statistical machine translation: http://arxiv.org/pdf/1406.1078
-* Sequence to sequence learning with neural networks: https://arxiv.org/pdf/1409.3215.pdf
-* Neural Machine Translation by Jointly Learning to Align and Translate: https://arxiv.org/pdf/1409.0473v7
-* Seq-to-seq on Chatbot: A neural conversational model: http://arxiv.org/pdf/1506.05869.pdf
+* Deep Dream: Going Deeper into Neural Networks: [googleblog](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
+* A neural algorithm of artistic style: http://arxiv.org/pdf/1508.06576
+* iGAN: Generative Visual Manipulation on the Natural Image Manifold: https://arxiv.org/pdf/1609.03552
+* Neural Doodle: Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks: http://arxiv.org/pdf/1603.01768
+* A learned representation for artistic style: [[pdf]](https://arxiv.org/pdf/1610.07629v1.pdf) 
+* Controlling Perceptual Factors in Neural Style Transfer: [[pdf]](https://arxiv.org/pdf/1611.07865.pdf) 
+* Texture Networks: Feed-forward Synthesis of Textures and Stylized Images: http://arxiv.org/abs/1603.03417
 
 ### [Neural Turing Machines:](https://en.wikipedia.org/wiki/Neural_Turing_machine)
 
@@ -53,33 +55,20 @@
 * End-to-end memory networks: http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf
 * Pointer networks: http://papers.nips.cc/paper/5866-pointer-networks.pdf
 
-### [Deep Reinforcement Learning:](https://arxiv.org/pdf/1708.05866)
+### Edge Detection:
 
-* Playing atari with deep reinforcement learning: http://arxiv.org/pdf/1312.5602.pdf
-* Human-level control through deep reinforcement learning: [link](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
-* Dueling network architectures for deep reinforcement learning: http://arxiv.org/pdf/1511.06581
-* Asynchronous methods for deep reinforcement learning: http://arxiv.org/pdf/1602.01783
-* DDPG: Continuous control with deep reinforcement learning: http://arxiv.org/pdf/1509.02971
-* NAF: Continuous Deep Q-Learning with Model-based Acceleration: http://arxiv.org/pdf/1603.00748
-* TRPO: Trust region policy optimization: [JMLR](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)
-* AlphaGo: [pdf](http://willamette.edu/~levenick/cs448/goNature.pdf)
-* Various Python notebooks: https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks
+* Holistically-Nested Edge Detection: http://arxiv.org/pdf/1504.06375 | [Code](https://github.com/s9xie/hed)
+* DeepEdge: Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR, 2015: http://arxiv.org/pdf/1412.1123
+* DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection: [CVPR15](http://mc.eistar.net/UpLoadFiles/Papers/DeepContour_cvpr15.pdf)
 
-### [Deep Transfer Learning:](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
+### Machine Translation:
 
-* Deep Learning of Representations for Unsupervised and Transfer Learning: [JMLR](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf)
-* Distilling the knowledge in a neural network: http://arxiv.org/pdf/1503.02531
-* Policy distillation: http://arxiv.org/pdf/1511.06295
-* Actor-mimic: Deep multitask and transfer reinforcement learning: http://arxiv.org/pdf/1511.06342
-* Progressive neural networks: https://arxiv.org/pdf/1606.04671
-
-### [One-Shot Learning:](https://en.wikipedia.org/wiki/One-shot_learning)
-
-* Human-level concept learning through probabilistic program induction: [[pdf]](http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf) 
-* Siamese Neural Networks for One-shot Image Recognition: [[pdf]](http://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf) :
-* One-shot Learning with Memory-Augmented Neural Networks: http://arxiv.org/pdf/1605.06065
-* Matching Networks for One Shot Learning: https://arxiv.org/pdf/1606.04080
-* Low-shot visual object recognition: http://arxiv.org/pdf/1606.02819
+* Addressing the rare word problem in neural machine translation: http://arxiv.org/pdf/1410.8206
+* Neural Machine Translation of Rare Words with Subword Units: https://arxiv.org/pdf/1508.07909.pdf
+* Effective approaches to attention-based neural machine translation: http://arxiv.org/pdf/1508.04025
+* A Character-Level Decoder without Explicit Segmentation for Neural Machine Translation: https://arxiv.org/pdf/1603.06147.pdf
+* Fully Character-Level Neural Machine Translation without Explicit Segmentation: https://arxiv.org/pdf/1610.03017.pdf
+* Google's Neural Machine Translation System: https://arxiv.org/pdf/1609.08144v2.pdf
 
 ### Natural Language Processing:
 
@@ -126,6 +115,14 @@
 * Visual Tracking with FCNs, ICCV 2015: [Paper](http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf) | [Code](https://github.com/scott89/FCNT)
 * Learning Multi-Domain CNNs for Visual Tracking: http://arxiv.org/pdf/1510.07945.pdf | [Code](https://github.com/HyeonseobNam/MDNet) | [Project Page](http://cvlab.postech.ac.kr/research/mdnet/)
 
+### [One-Shot Learning:](https://en.wikipedia.org/wiki/One-shot_learning)
+
+* Human-level concept learning through probabilistic program induction: [[pdf]](http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf) 
+* Siamese Neural Networks for One-shot Image Recognition: [[pdf]](http://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf) :
+* One-shot Learning with Memory-Augmented Neural Networks: http://arxiv.org/pdf/1605.06065
+* Matching Networks for One Shot Learning: https://arxiv.org/pdf/1606.04080
+* Low-shot visual object recognition: http://arxiv.org/pdf/1606.02819
+
 ### Low-Level Vision
 
 #### Super-Resolution
@@ -142,11 +139,37 @@
 * SRGAN: Photo-Realistic Single Image Super-Resolution with GANs, 2016: https://arxiv.org/pdf/1609.04802v3.pdf
 * Image Super-Resolution with Fast Approximate Convolutional Sparse Coding, ICONIP, 2014: [Paper](http://brml.org/uploads/tx_sibibtex/281.pdf)
 
-### Edge Detection:
+### [Recurrent Neural Nets:](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 
-* Holistically-Nested Edge Detection: http://arxiv.org/pdf/1504.06375 | [Code](https://github.com/s9xie/hed)
-* DeepEdge: Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR, 2015: http://arxiv.org/pdf/1412.1123
-* DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection: [CVPR15](http://mc.eistar.net/UpLoadFiles/Papers/DeepContour_cvpr15.pdf)
+* LSTMs: Generating sequences with recurrent neural networks: http://arxiv.org/pdf/1308.0850
+* Seq2Seq: Learning phrase representations using RNN encoder-decoder for statistical machine translation: http://arxiv.org/pdf/1406.1078
+* Sequence to sequence learning with neural networks: https://arxiv.org/pdf/1409.3215.pdf
+* Neural Machine Translation by Jointly Learning to Align and Translate: https://arxiv.org/pdf/1409.0473v7
+* Seq-to-seq on Chatbot: A neural conversational model: http://arxiv.org/pdf/1506.05869.pdf
+
+### [Reinforcement Learning:](https://arxiv.org/pdf/1708.05866)
+
+* Playing atari with deep reinforcement learning: http://arxiv.org/pdf/1312.5602.pdf
+* Human-level control through deep reinforcement learning: [link](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
+* Dueling network architectures for deep reinforcement learning: http://arxiv.org/pdf/1511.06581
+* Asynchronous methods for deep reinforcement learning: http://arxiv.org/pdf/1602.01783
+* DDPG: Continuous control with deep reinforcement learning: http://arxiv.org/pdf/1509.02971
+* NAF: Continuous Deep Q-Learning with Model-based Acceleration: http://arxiv.org/pdf/1603.00748
+* TRPO: Trust region policy optimization: [JMLR](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)
+* AlphaGo: [pdf](http://willamette.edu/~levenick/cs448/goNature.pdf)
+* Various Python notebooks: https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks
+
+### Robotics:
+
+* Evolving large-scale neural networks for vision-based reinforcement learning:  [ACM 2013](http://repository.supsi.ch/4550/1/koutnik2013gecco.pdf) :
+* E2E training of deep visuomotor policies: [JMLR](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf)
+* Supersizing self-supervision: Learning to grasp from 50k tries and 700 robot hours: http://arxiv.org/pdf/1509.06825
+* Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection: http://arxiv.org/pdf/1603.02199
+* Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning: https://arxiv.org/pdf/1609.05143
+* Collective Robot Reinforcement Learning with Distributed Asynchronous Guided Policy Search: https://arxiv.org/pdf/1610.00673
+* Deep Reinforcement Learning for Robotic Manipulation: https://arxiv.org/pdf/1610.00633
+* Sim-to-Real Robot Learning from Pixels with Progressive Nets: https://arxiv.org/pdf/1610.04286.pdf
+* Learning to navigate in complex environments: https://arxiv.org/pdf/1611.03673
 
 ### Semantic Segmentation:
 
@@ -264,6 +287,14 @@
 * Inverting Visual Representations with CNNs: http://arxiv.org/abs/1506.02753
 * Visualizing and Understanding CNNs: [ECCV 2014](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
+### [Transfer Learning:](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
+
+* Deep Learning of Representations for Unsupervised and Transfer Learning: [JMLR](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf)
+* Distilling the knowledge in a neural network: http://arxiv.org/pdf/1503.02531
+* Policy distillation: http://arxiv.org/pdf/1511.06295
+* Actor-mimic: Deep multitask and transfer reinforcement learning: http://arxiv.org/pdf/1511.06342
+* Progressive neural networks: https://arxiv.org/pdf/1606.04671
+
 ### Video Captioning:
 
 * LCRNs: Long-term Recurrent CNNs for Visual Recognition and Description: [Web](http://jeffdonahue.com/lrcn), http://arxiv.org/pdf/1411.4389.pdf, http://arxiv.org/pdf/1412.4729
@@ -299,15 +330,6 @@
 * C-COT: Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking: [pdf](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf)
 * TCNN: Modeling and Propagating CNNs in a Tree Structure for Visual Tracking: https://arxiv.org/pdf/1608.07242)
 
-### Art & Styling:
-
-* Deep Dream: Going Deeper into Neural Networks: [googleblog](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
-* A neural algorithm of artistic style: http://arxiv.org/pdf/1508.06576
-* iGAN: Generative Visual Manipulation on the Natural Image Manifold: https://arxiv.org/pdf/1609.03552
-* Neural Doodle: Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks: http://arxiv.org/pdf/1603.01768
-* A learned representation for artistic style: [[pdf]](https://arxiv.org/pdf/1610.07629v1.pdf) 
-* Controlling Perceptual Factors in Neural Style Transfer: [[pdf]](https://arxiv.org/pdf/1611.07865.pdf) 
-* Texture Networks: Feed-forward Synthesis of Textures and Stylized Images: http://arxiv.org/abs/1603.03417
 
 ### Other Visual Topics:
 
