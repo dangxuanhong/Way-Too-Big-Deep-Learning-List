@@ -289,7 +289,17 @@
 * Multiple Object Recognition with Visual Attention: http://arxiv.org/pdf/1412.7755.pdf
 * Recurrent Models of Visual Attention: [NIPS 2014](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
 
-### Other Topics:
+### Visual Tracking:
+
+* DLT Tracker: Learning a deep compact image representation for visual tracking: [[pdf]](http://papers.nips.cc/paper/5192-learning-a-deep-compact-image-representation-for-visual-tracking.pdf)
+* SO-DLT: Transferring rich feature hierarchies for robust visual tracking: http://arxiv.org/pdf/1501.04587
+* FCNT: Visual tracking with fully convolutional networks: [pdf](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Wang_Visual_Tracking_With_ICCV_2015_paper.pdf)
+* GOTURN: Learning to Track at 100 FPS with Deep Regression Networks: http://arxiv.org/pdf/1604.01802
+* SiameseFC: Fully-Convolutional Siamese Networks for Object Tracking: https://arxiv.org/pdf/1606.09549
+* C-COT: Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking: [pdf](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf)
+* TCNN: Modeling and Propagating CNNs in a Tree Structure for Visual Tracking: https://arxiv.org/pdf/1608.07242)
+
+### Other Visual Topics:
 
 * Visual Analogies: [NIPS 2015](https://web.eecs.umich.edu/~honglak/nips2015-analogy.pdf)
 * Designing Deep Networks for Surface Normal Estimation: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Designing_Deep_Networks_2015_CVPR_paper.pdf)
@@ -310,7 +320,7 @@
 * Deep Edge-Aware Filter: [ICML 2015](http://jmlr.org/proceedings/papers/v37/xub15.pdf)
 * Finding Stereo Matching Cost with a CNN [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)
 * Colorful Image Colorization: http://arxiv.org/pdf/1603.08511.pdf, [Code](https://github.com/richzhang/colorization)
-* Ryan Dahl, [[Blog]](http://tinyclouds.org/colorize/)
+* [Ryan Dahl's Blog](http://tinyclouds.org/colorize/)
 * Feature Learning by Inpainting: https://arxiv.org/pdf/1604.07379v1.pdf, [Code](https://github.com/pathak22/context-encoder)
 
 
