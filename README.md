@@ -299,6 +299,16 @@
 * C-COT: Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking: [pdf](http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf)
 * TCNN: Modeling and Propagating CNNs in a Tree Structure for Visual Tracking: https://arxiv.org/pdf/1608.07242)
 
+### Art & Styling:
+
+* Deep Dream: Going Deeper into Neural Networks: [googleblog](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
+* A neural algorithm of artistic style: http://arxiv.org/pdf/1508.06576
+* iGAN: Generative Visual Manipulation on the Natural Image Manifold: https://arxiv.org/pdf/1609.03552
+* Neural Doodle: Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks: http://arxiv.org/pdf/1603.01768
+* A learned representation for artistic style: [[pdf]](https://arxiv.org/pdf/1610.07629v1.pdf) 
+* Controlling Perceptual Factors in Neural Style Transfer: [[pdf]](https://arxiv.org/pdf/1611.07865.pdf) 
+* Texture Networks: Feed-forward Synthesis of Textures and Stylized Images: http://arxiv.org/abs/1603.03417
+
 ### Other Visual Topics:
 
 * Visual Analogies: [NIPS 2015](https://web.eecs.umich.edu/~honglak/nips2015-analogy.pdf)
