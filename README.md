@@ -10,15 +10,6 @@
 * Rectifiers: Surpassing Human-Level Performance on ImageNet Classification: http://arxiv.org/pdf/1502.01852
 * AlexNet: [NIPS 2012](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
 
-### Speech Recognition:
-
-* Deep neural networks for acoustic modeling in speech recognition: http://cs224d.stanford.edu/papers/maas_paper.pdf
-* Speech recognition with deep RNNs: http://arxiv.org/pdf/1303.5778.pdf
-* E2E speech recognition with RNNs: http://www.jmlr.org/proceedings/papers/v32/graves14.pdf
-* Google speech recognition system: http://arxiv.org/pdf/1507.06947
-* E2E speech recognition in English & Mandarin (Baidu): https://arxiv.org/pdf/1512.02595.pdf
-* Human parity in conversational speech recognition (MSFT): https://arxiv.org/pdf/1610.05256v1
-
 ### Models:
 
 * Dropout: https://arxiv.org/pdf/1207.0580.pdf, https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
@@ -112,18 +103,19 @@
 * Faster R-CNN: Real-Time Object Detection with Region Proposal Networks: http://arxiv.org/pdf/1506.01497 
 * R-CNN minus R: http://arxiv.org/pdf/1506.06981
 * E2E people detection in crowded scenes: http://arxiv.org/abs/1506.04878
-* You Only Look Once: Real-Time Object Detection: http://arxiv.org/abs/1506.02640 | https://arxiv.org/abs/1612.08242 | [C Code](https://github.com/pjreddie/darknet) | [Tensorflow Code](https://github.com/thtrieu/darkflow)
+* You Only Look Once: Real-Time Object Detection: http://arxiv.org/abs/1506.02640, https://arxiv.org/abs/1612.08242, [C Code](https://github.com/pjreddie/darknet), [Tensorflow Code](https://github.com/thtrieu/darkflow)
 * Inside-Outside Net: Detecting Objects with Skip Pooling and RNNs: http://arxiv.org/abs/1512.04143
 * Deep Residual Networks: http://arxiv.org/abs/1512.03385
 * Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning: http://arxiv.org/pdf/1503.00949.pdf
-* R-FCN: Object Detection via Region-based FCNs: https://arxiv.org/abs/1605.06409 | [Code](https://github.com/daijifeng001/R-FCN)
-* SSD: Single Shot MultiBox Detector: https://arxiv.org/pdf/1512.02325v2.pdf | [Code](https://github.com/weiliu89/caffe/tree/ssd)
+* R-FCN: Object Detection via Region-based FCNs: https://arxiv.org/abs/1605.06409, [Code](https://github.com/daijifeng001/R-FCN)
+* SSD: Single Shot MultiBox Detector: https://arxiv.org/pdf/1512.02325v2.pdf, [Code](https://github.com/weiliu89/caffe/tree/ssd)
 * Speed/accuracy trade-offs for modern convolutional object detectors: https://arxiv.org/pdf/1611.10012v1.pdf
+* Mask R-CNN: https://arxiv.org/abs/1703.06870
 
-### Video Classification:
+### Object Recognition
 
-* Convolutional Networks for Learning Video Representations, ICLR 2016: http://arxiv.org/pdf/1511.06432v4.pdf
-* Deep Multi Scale Video Prediction Beyond Mean Square Error, ICLR 2016: http://arxiv.org/pdf/1511.05440v6.pdf
+* Weakly-supervised learning with CNNs: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Oquab_Is_Object_Localization_2015_CVPR_paper.pdf)
+* FV-CNN: Deep Filter Banks for Texture Recognition and Segmentation: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Cimpoi_Deep_Filter_Banks_2015_CVPR_paper.pdf)
 
 ### Object Tracking:
 
@@ -186,16 +178,14 @@
 * Instance-aware semantic segmentation via multi-task network cascades: https://arxiv.org/pdf/1512.04412v1.pdf
 * Instance-aware fully convolutional networks: https://arxiv.org/pdf/1603.08678v1.pdf
 
-### Visual Attention and Saliency:
+### Speech Recognition:
 
-* Mr-CNN: Predicting Eye Fixations using CNNs: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Predicting_Eye_Fixations_2015_CVPR_paper.pdf)
-* Sequential Search for Landmarks: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Singh_Learning_a_Sequential_2015_CVPR_paper.pdf)
-* Multiple Object Recognition with Visual Attention: http://arxiv.org/pdf/1412.7755.pdf
-* Recurrent Models of Visual Attention: [NIPS 2014](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
-
-### Object Recognition
-* Weakly-supervised learning with CNNs: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Oquab_Is_Object_Localization_2015_CVPR_paper.pdf)
-* FV-CNN: Deep Filter Banks for Texture Recognition and Segmentation: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Cimpoi_Deep_Filter_Banks_2015_CVPR_paper.pdf)
+* Deep neural networks for acoustic modeling in speech recognition: http://cs224d.stanford.edu/papers/maas_paper.pdf
+* Speech recognition with deep RNNs: http://arxiv.org/pdf/1303.5778.pdf
+* E2E speech recognition with RNNs: http://www.jmlr.org/proceedings/papers/v32/graves14.pdf
+* Google speech recognition system: http://arxiv.org/pdf/1507.06947
+* E2E speech recognition in English & Mandarin (Baidu): https://arxiv.org/pdf/1512.02595.pdf
+* Human parity in conversational speech recognition (MSFT): https://arxiv.org/pdf/1610.05256v1
 
 ### Human Pose Estimation
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields: https://arxiv.org/pdf/1611.08050.pdf
@@ -204,15 +194,6 @@
 * Stacked hourglass networks for human pose estimation: https://arxiv.org/pdf/1603.06937
 * Flowing convnets for human pose estimation in videos: https://arxiv.org/pdf/1506.02897.pdf
 * Joint training of a CNN & graphical model for human pose estimation: https://arxiv.org/pdf/1701.00295.pdf
-
-### Image Understanding:
-
-* Understanding image representations by measuring equivariance and equivalence: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf)
-* DNNs are Easily Fooled:High Confidence Predictions for Unrecognizable Images: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.pdf)
-* Understanding Deep Image Representations by Inverting Them: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.pdf)
-* Object Detectors in Deep Scene CNNs: http://arxiv.org/abs/1412.6856
-* Inverting Visual Representations with CNNs: http://arxiv.org/abs/1506.02753
-* Visualizing and Understanding CNNs: [ECCV 2014](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
 ### Image Captioning:
 
@@ -236,18 +217,24 @@
 * Describing Multimedia Content using Attention-based Encoder-Decoder Networks: http://arxiv.org/pdf/1508.02091.pdf
 * Image Representations and New Domains in Neural Image Captioning: [ICCV 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yao_Learning_Query_and_ICCV_2015_paper.pdf)]
 
-### Video Captioning:
+### Image Generation: Convolutional / Recurrent Networks:
 
-* LCRNs: Long-term Recurrent CNNs for Visual Recognition and Description: [Web](http://jeffdonahue.com/lrcn), http://arxiv.org/pdf/1411.4389.pdf, http://arxiv.org/pdf/1412.4729
-  * Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Translating Videos to Natural Language Using Deep Recurrent Neural Networks, arXiv:1412.4729.
-* Microsoft [[Paper]](http://arxiv.org/pdf/1505.01861)
-* Joint Modeling Embedding and Translation to Bridge Video and Language: http://arxiv.org/pdf/1505.00487
-* Sequence to Sequence--Video to Text: http://arxiv.org/pdf/1502.08029.pdf
-* Describing Videos by Exploiting Temporal Structure: http://arxiv.org/pdf/1506.01698.pdf
-* The Long-Short Story of Movie Description: http://arxiv.org/pdf/1506.06724.pdf
-* Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books: http://arxiv.org/pdf/1507.01053.pdf
-* Describing Multimedia Content using Attention-based Encoder-Decoder Networks: https://arxiv.org/pdf/1612.06950.pdf
-* Temporal Tessellation for Video Annotation and Summarization: https://arxiv.org/pdf/1612.06950.pdf
+* Conditional Image Generation with PixelCNN Decoders: https://arxiv.org/pdf/1606.05328v2.pdf, [Code](https://github.com/kundan2510/pixelCNN)
+* Learning to Generate Chairs with Convolutional Neural Networks: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
+* DRAW: A Recurrent Neural Network For Image Generation: https://arxiv.org/pdf/1502.04623v2.pdf
+
+### Image Generation: Adversarial Networks:
+
+* Generative Adversarial Networks: http://arxiv.org/abs/1406.2661
+* Deep Generative Image Models using a ￼Laplacian Pyramid of Adversarial Networks: http://arxiv.org/abs/1506.05751
+* Evaluation of generative models: http://arxiv.org/abs/1511.01844
+* Variationally Auto-Encoded Deep Gaussian Processes: http://arxiv.org/pdf/1511.06455v2.pdf
+* Generating Images from Captions with Attention: http://arxiv.org/pdf/1511.02793v2.pdf
+* Unsupervised and Semi-supervised Learning with Categorical GANs: http://arxiv.org/pdf/1511.06390v1.pdf
+* Censoring Representations with an Adversary: http://arxiv.org/pdf/1511.05897v3.pdf
+* Distributional Smoothing with Virtual Adversarial Training: http://arxiv.org/pdf/1507.00677v8.pdf
+* Generative Visual Manipulation on the Natural Image Manifold: https://arxiv.org/pdf/1609.03552v2.pdf, [Code](https://github.com/junyanz/iGAN)], [Video](https://youtu.be/9c4z6YsBGQ0)]
+* Unsupervised Representation Learning with Deep Convolutional GANs: http://arxiv.org/pdf/1511.06434.pdf
 
 #### Image (IQA) and Visual (VQA) Question Answering:
 
@@ -268,24 +255,39 @@
 * Training Recurrent Answering Units with Joint Loss Minimization for VQA: http://arxiv.org/pdf/1606.03647.pdf
 * Hadamard Product for Low-rank Bilinear Pooling: http://arxiv.org/pdf/1610.04325
 
-### Image Generation: Convolutional / Recurrent Networks:
+### Image Understanding:
 
-* Conditional Image Generation with PixelCNN Decoders: https://arxiv.org/pdf/1606.05328v2.pdf, [Code](https://github.com/kundan2510/pixelCNN)
-* Learning to Generate Chairs with Convolutional Neural Networks: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
-* DRAW: A Recurrent Neural Network For Image Generation: https://arxiv.org/pdf/1502.04623v2.pdf
+* Understanding image representations by measuring equivariance and equivalence: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf)
+* DNNs are Easily Fooled:High Confidence Predictions for Unrecognizable Images: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.pdf)
+* Understanding Deep Image Representations by Inverting Them: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.pdf)
+* Object Detectors in Deep Scene CNNs: http://arxiv.org/abs/1412.6856
+* Inverting Visual Representations with CNNs: http://arxiv.org/abs/1506.02753
+* Visualizing and Understanding CNNs: [ECCV 2014](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
-### Image Generation: Adversarial Networks:
+### Video Captioning:
 
-* Generative Adversarial Networks: http://arxiv.org/abs/1406.2661
-* Deep Generative Image Models using a ￼Laplacian Pyramid of Adversarial Networks: http://arxiv.org/abs/1506.05751
-* Evaluation of generative models: http://arxiv.org/abs/1511.01844
-* Variationally Auto-Encoded Deep Gaussian Processes: http://arxiv.org/pdf/1511.06455v2.pdf
-* Generating Images from Captions with Attention: http://arxiv.org/pdf/1511.02793v2.pdf
-* Unsupervised and Semi-supervised Learning with Categorical GANs: http://arxiv.org/pdf/1511.06390v1.pdf
-* Censoring Representations with an Adversary: http://arxiv.org/pdf/1511.05897v3.pdf
-* Distributional Smoothing with Virtual Adversarial Training: http://arxiv.org/pdf/1507.00677v8.pdf
-* Generative Visual Manipulation on the Natural Image Manifold: https://arxiv.org/pdf/1609.03552v2.pdf, [Code](https://github.com/junyanz/iGAN)], [Video](https://youtu.be/9c4z6YsBGQ0)]
-* Unsupervised Representation Learning with Deep Convolutional GANs: http://arxiv.org/pdf/1511.06434.pdf
+* LCRNs: Long-term Recurrent CNNs for Visual Recognition and Description: [Web](http://jeffdonahue.com/lrcn), http://arxiv.org/pdf/1411.4389.pdf, http://arxiv.org/pdf/1412.4729
+  * Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Translating Videos to Natural Language Using Deep Recurrent Neural Networks, arXiv:1412.4729.
+* Microsoft [[Paper]](http://arxiv.org/pdf/1505.01861)
+* Joint Modeling Embedding and Translation to Bridge Video and Language: http://arxiv.org/pdf/1505.00487
+* Sequence to Sequence--Video to Text: http://arxiv.org/pdf/1502.08029.pdf
+* Describing Videos by Exploiting Temporal Structure: http://arxiv.org/pdf/1506.01698.pdf
+* The Long-Short Story of Movie Description: http://arxiv.org/pdf/1506.06724.pdf
+* Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books: http://arxiv.org/pdf/1507.01053.pdf
+* Describing Multimedia Content using Attention-based Encoder-Decoder Networks: https://arxiv.org/pdf/1612.06950.pdf
+* Temporal Tessellation for Video Annotation and Summarization: https://arxiv.org/pdf/1612.06950.pdf
+
+### Video Classification:
+
+* Convolutional Networks for Learning Video Representations, ICLR 2016: http://arxiv.org/pdf/1511.06432v4.pdf
+* Deep Multi Scale Video Prediction Beyond Mean Square Error, ICLR 2016: http://arxiv.org/pdf/1511.05440v6.pdf
+
+### Visual Attention and Saliency:
+
+* Mr-CNN: Predicting Eye Fixations using CNNs: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Predicting_Eye_Fixations_2015_CVPR_paper.pdf)
+* Sequential Search for Landmarks: [CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Singh_Learning_a_Sequential_2015_CVPR_paper.pdf)
+* Multiple Object Recognition with Visual Attention: http://arxiv.org/pdf/1412.7755.pdf
+* Recurrent Models of Visual Attention: [NIPS 2014](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
 
 ### Other Topics:
 
