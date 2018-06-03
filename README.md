@@ -1,4 +1,4 @@
-# Brian's Deep Learning reading list:
+# Brian's Waaaay Too Big Deep Learning resouce list:
 
 ### ImageNet Historicals:
 
