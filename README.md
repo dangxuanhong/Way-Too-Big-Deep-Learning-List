@@ -46,6 +46,49 @@
 * PixelRNN: Pixel recurrent neural networks: http://arxiv.org/pdf/1601.06759
 * PixclCNN: Conditional image generation with PixelCNN decoders: https://arxiv.org/pdf/1606.05328
 
+### [Recurrent Neural Nets:](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+
+* LSTMs: Generating sequences with recurrent neural networks: http://arxiv.org/pdf/1308.0850
+* Seq2Seq: Learning phrase representations using RNN encoder-decoder for statistical machine translation: http://arxiv.org/pdf/1406.1078
+* Sequence to sequence learning with neural networks: https://arxiv.org/pdf/1409.3215.pdf
+* Neural Machine Translation by Jointly Learning to Align and Translate: https://arxiv.org/pdf/1409.0473v7
+* Seq-to-seq on Chatbot: A neural conversational model: http://arxiv.org/pdf/1506.05869.pdf
+
+### [Neural Turing Machines:](https://en.wikipedia.org/wiki/Neural_Turing_machine)
+
+* Neural turing machines: http://arxiv.org/pdf/1410.5401.pdf
+* Reinforcement learning neural Turing machines: [link](https://pdfs.semanticscholar.org/f10e/071292d593fef939e6ef4a59baf0bb3a6c2b.pdf)
+* Memory networks: http://arxiv.org/pdf/1410.3916
+* End-to-end memory networks: http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf
+* Pointer networks: http://papers.nips.cc/paper/5866-pointer-networks.pdf
+
+### [Deep Reinforcement Learning:](https://arxiv.org/pdf/1708.05866)
+
+* Playing atari with deep reinforcement learning: http://arxiv.org/pdf/1312.5602.pdf
+* Human-level control through deep reinforcement learning: [link](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
+* Dueling network architectures for deep reinforcement learning: http://arxiv.org/pdf/1511.06581
+* Asynchronous methods for deep reinforcement learning: http://arxiv.org/pdf/1602.01783
+* DDPG: Continuous control with deep reinforcement learning: http://arxiv.org/pdf/1509.02971
+* NAF: Continuous Deep Q-Learning with Model-based Acceleration: http://arxiv.org/pdf/1603.00748
+* TRPO: Trust region policy optimization: [JMLR](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)
+* AlphaGo: [pdf](http://willamette.edu/~levenick/cs448/goNature.pdf)
+
+### [Deep Transfer Learning:](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
+
+* Deep Learning of Representations for Unsupervised and Transfer Learning: [JMLR](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf)
+* Distilling the knowledge in a neural network: http://arxiv.org/pdf/1503.02531
+* Policy distillation: http://arxiv.org/pdf/1511.06295
+* Actor-mimic: Deep multitask and transfer reinforcement learning: http://arxiv.org/pdf/1511.06342
+* Progressive neural networks: https://arxiv.org/pdf/1606.04671
+
+### [One-Shot Learning:](https://en.wikipedia.org/wiki/One-shot_learning)
+
+* Human-level concept learning through probabilistic program induction: [[pdf]](http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf) 
+* Siamese Neural Networks for One-shot Image Recognition: [[pdf]](http://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf) :
+* One-shot Learning with Memory-Augmented Neural Networks: http://arxiv.org/pdf/1605.06065
+* Matching Networks for One Shot Learning: https://arxiv.org/pdf/1606.04080
+* Low-shot visual object recognition: http://arxiv.org/pdf/1606.02819
+
 ### Object Detection:
 
 * PVANET (PVA faster-RCNN): https://arxiv.org/pdf/1608.08021 | [Code](https://github.com/sanghoon/pva-faster-rcnn)
