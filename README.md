@@ -72,6 +72,7 @@
 * NAF: Continuous Deep Q-Learning with Model-based Acceleration: http://arxiv.org/pdf/1603.00748
 * TRPO: Trust region policy optimization: [JMLR](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)
 * AlphaGo: [pdf](http://willamette.edu/~levenick/cs448/goNature.pdf)
+* Various Python notebooks: https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks
 
 ### [Deep Transfer Learning:](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
 
@@ -88,6 +89,18 @@
 * One-shot Learning with Memory-Augmented Neural Networks: http://arxiv.org/pdf/1605.06065
 * Matching Networks for One Shot Learning: https://arxiv.org/pdf/1606.04080
 * Low-shot visual object recognition: http://arxiv.org/pdf/1606.02819
+
+### Natural Language Processing:
+
+* Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing: [pdf](https://www.hds.utc.fr/~bordesan/dokuwiki/lib/exe/fetch.php)
+* Word2Vec: Distributed representations of words and phrases and their compositionality: [pdf](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+* Sequence to sequence learning: [pdf](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+* Ask Me Anything: Dynamic Memory Networks for NLP: https://arxiv.org/abs/1506.07285
+* Character-Aware Neural Language Models: https://arxiv.org/abs/1508.06615
+* Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks: https://arxiv.org/abs/1502.05698
+* Teaching Machines to Read and Comprehend: https://arxiv.org/abs/1506.03340
+* Very Deep Convolutional Networks for NLP: https://arxiv.org/abs/1606.01781
+* Bag of Tricks for Efficient Text Classification: https://arxiv.org/abs/1607.01759
 
 ### Object Detection:
 
