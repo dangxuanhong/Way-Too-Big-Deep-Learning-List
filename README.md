@@ -49,11 +49,12 @@
 
 ### [Neural Turing Machines:](https://en.wikipedia.org/wiki/Neural_Turing_machine)
 
-* Neural turing machines: http://arxiv.org/pdf/1410.5401.pdf
+* NTM (Neural turing machines): http://arxiv.org/pdf/1410.5401.pdf
+* Neural GPUs: http://arxiv.org/pdf/1511.08228.pdf
 * Reinforcement learning neural Turing machines: [link](https://pdfs.semanticscholar.org/f10e/071292d593fef939e6ef4a59baf0bb3a6c2b.pdf)
 * Memory networks: http://arxiv.org/pdf/1410.3916
 * End-to-end memory networks: http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf
-* Pointer networks: http://papers.nips.cc/paper/5866-pointer-networks.pdf
+* Pointer networks: http://arxiv.org/pdf/1506.03134
 
 ### Edge Detection:
 
@@ -142,10 +143,13 @@
 ### [Recurrent Neural Nets:](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 
 * LSTMs: Generating sequences with recurrent neural networks: http://arxiv.org/pdf/1308.0850
+* GRU (Gated Recurrent Unit): http://arxiv.org/pdf/1406.1078.pdf
 * Seq2Seq: Learning phrase representations using RNN encoder-decoder for statistical machine translation: http://arxiv.org/pdf/1406.1078
 * Sequence to sequence learning with neural networks: https://arxiv.org/pdf/1409.3215.pdf
 * Neural Machine Translation by Jointly Learning to Align and Translate: https://arxiv.org/pdf/1409.0473v7
 * Seq-to-seq on Chatbot: A neural conversational model: http://arxiv.org/pdf/1506.05869.pdf
+* Deep Attention Recurrent Q-Network: http://arxiv.org/abs/1512.01693
+* Ask Me Anything: Dynamic Memory Nets for NLP: http://arxiv.org/abs/1506.07285
 
 ### [Reinforcement Learning:](https://arxiv.org/pdf/1708.05866)
 
