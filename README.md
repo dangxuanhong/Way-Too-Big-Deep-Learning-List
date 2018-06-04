@@ -1,6 +1,6 @@
 # Brian's Waaaay Too Big Deep Learning resource list:
 
-### ImageNet Historicals:
+### ImageNet Notables:
 
 * Wide ResNet: https://arxiv.org/abs/1605.07146
 * ResNet: https://arxiv.org/pdf/1512.03385.pdf
