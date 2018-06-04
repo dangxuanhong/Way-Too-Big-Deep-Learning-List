@@ -2,6 +2,7 @@
 
 ### ImageNet Historicals:
 
+* Wide ResNet: https://arxiv.org/abs/1605.07146
 * ResNet: https://arxiv.org/pdf/1512.03385.pdf
 * GoogLeNet: http://arxiv.org/pdf/1409.4842
 * VGG-Net: [ICLR 2015](http://www.robots.ox.ac.uk/~vgg/research/very_deep/), http://arxiv.org/pdf/1409.1556
