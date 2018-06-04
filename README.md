@@ -216,7 +216,8 @@
 * E2E speech recognition in English & Mandarin (Baidu): https://arxiv.org/pdf/1512.02595.pdf
 * Human parity in conversational speech recognition (MSFT): https://arxiv.org/pdf/1610.05256v1
 
-### Human Pose Estimation
+### Human Pose Estimation:
+
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields: https://arxiv.org/pdf/1611.08050.pdf
 * Deepcut: Joint subset partition and labeling for multi person pose estimation: https://arxiv.org/pdf/1511.06645.pdf
 * Convolutional pose machines: https://arxiv.org/pdf/1602.00134.pdf
