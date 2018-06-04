@@ -1,4 +1,4 @@
-# Brian's Waaaay Too Big Deep Learning resouce list:
+# Brian's Waaaay Too Big Deep Learning resource list:
 
 ### ImageNet Historicals:
 
