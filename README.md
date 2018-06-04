@@ -5,7 +5,6 @@
 * Wide ResNet: https://arxiv.org/abs/1605.07146
 * ResNet: https://arxiv.org/pdf/1512.03385.pdf
 * ResNeXt: https://arxiv.org/abs/1611.05431
- * Introduces use of "cardinality" (the size of the set of transformations) in addition to of depth and width.
 * DenseNet: https://arxiv.org/abs/1608.06993
 * SENet (Squeeze & Excitation Network): http://www.sohu.com/a/161633191_465975
 * Residual Attention Networks: https://arxiv.org/pdf/1704.06904
