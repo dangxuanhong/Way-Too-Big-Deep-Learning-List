@@ -4,12 +4,13 @@
 
 * Wide ResNet: https://arxiv.org/abs/1605.07146
 * ResNet: https://arxiv.org/pdf/1512.03385.pdf
+* ResNeXt: https://arxiv.org/abs/1611.05431
+* DenseNet: https://arxiv.org/abs/1608.06993
+* SENet (Squeeze & Excitation Network): http://www.sohu.com/a/161633191_465975
+* Residual Attention Networks: https://arxiv.org/pdf/1704.06904
 * GoogLeNet: http://arxiv.org/pdf/1409.4842
+* Inception-4, Inception-ResNet: https://arxiv.org/pdf/1602.07261.pdf
 * VGG-Net: [ICLR 2015](http://www.robots.ox.ac.uk/~vgg/research/very_deep/), http://arxiv.org/pdf/1409.1556
-* Deep Residual Learning: http://arxiv.org/pdf/1512.03385v1.pdf | [2015](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)
-* Deep Residual Learning for Image Recognition: http://arxiv.org/pdf/1512.03385
-* Rectifiers: Surpassing Human-Level Performance on ImageNet Classification: http://arxiv.org/pdf/1502.01852
-* AlexNet: [NIPS 2012](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
 
 ### Models:
 
